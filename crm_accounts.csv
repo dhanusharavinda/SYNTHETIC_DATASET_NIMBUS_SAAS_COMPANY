@@ -1,0 +1,501 @@
+customer_id,company_name,segment,pricing_tier,industry,country,city,contact_first_name,contact_last_name,contact_email,phone,signup_date
+CUST-0001,Acme Corp,Enterprise,Enterprise,Manufacturing,US,New York,John,Whitfield,john.whitfield@acmecorp.com,+1-212-555-0142,2024-01-15
+CUST-0002,"Griffiths, Cox and Smith",SMB,Starter,Energy,UK,New Maryton,Bradley,Newman,bradley.newman@griffithscoxandsmith.com,+44113 4960133,2025-08-30
+CUST-0003,"Rodriguez, Figueroa and Sanchez",SMB,Starter,Healthcare,US,New Roberttown,Donald,Garcia,donald.garcia@rodriguezfigueroaand.com,833-589-0838,2025-12-06
+CUST-0004,"Foster, Moore and Edwards",SMB,Starter,Manufacturing,UK,South Joan,Rita,Kaur,rita.kaur@fostermooreandedward.com,+44(0)1184960026,2025-01-16
+CUST-0005,Dowerg,SMB,Starter,E-commerce,Germany,Goslar,Andrei,Weihmann,andrei.weihmann@dowerg.com,+49(0) 218196001,2024-12-09
+CUST-0006,Lawrence-Pacheco,SMB,Starter,Education,US,Petersonberg,Adam,Shaffer,adam.shaffer@lawrencepacheco.com,651.216.1559,2024-04-22
+CUST-0007,"Stevens, Martinez and Nielsen",SMB,Starter,Software,US,Barbaraland,Christian,Carter,christian.carter@stevensmartinezandni.com,7344131647,2025-07-04
+CUST-0008,White-Stevens,SMB,Starter,Energy,UK,Gloverstad,Tom,Warner,tom.warner@whitestevens.com,+44(0)20 74960407,2024-12-01
+CUST-0009,"Harvey, Woodward and Ferguson",SMB,Starter,Manufacturing,UK,Melissaborough,Billy,Norton,billy.norton@harveywoodwardandfer.com,01632 960 103,2024-10-28
+CUST-0010,Kelly-Santiago,SMB,Starter,Manufacturing,US,New Cynthiaside,Jacqueline,Sutton,jacqueline.sutton@kellysantiago.com,001-832-676-4835x0305,2025-11-21
+CUST-0011,Heintze GmbH & Co. OHG,SMB,Starter,Energy,Germany,Weimar,Dorothea,Bauer,dorothea.bauer@heintzecoohg.com,(08637) 94026,2025-08-07
+CUST-0012,Laurent et Fils,SMB,Starter,FinTech,France,Joly,Robert,Moulin,robert.moulin@laurentetfils.com,+33 (0)2 32 96 00 13,2024-01-04
+CUST-0013,Holsten Förster AG & Co. OHG,SMB,Starter,Manufacturing,Germany,Burglengenfeld,Vanessa,Wiek,vanessa.wiek@holstenförsteragcooh.com,+49(0)6155 940781,2025-01-29
+CUST-0014,Budig Rohleder GmbH,SMB,Starter,Real Estate,Germany,Roding,Marit,Schottin,marit.schottin@budigrohleder.com,+49(0) 103413164,2025-12-09
+CUST-0015,Robinson-Davis,SMB,Starter,Healthcare,UK,Woodsstad,Oliver,Palmer,oliver.palmer@robinsondavis.com,(0116)4960553,06-10-2024
+CUST-0016,"Phillips, Cross and Miah",SMB,Starter,Education,UK,East Bethany,Tina,Thomson,tina.thomson@phillipscrossandmiah.com,0141 4960483,2025-10-16
+CUST-0017,Clark PLC,SMB,Starter,E-commerce,US,Fostermouth,Nancy,Edwards,nancy.edwards@clarkplc.com,(842)738-8496,2025-02-26
+CUST-0018,Bodin Marion SA,SMB,Starter,E-commerce,France,Humbert-sur-Mer,Gabrielle,Philippe,gabrielle.philippe@bodinmarionsa.com,04 30 02 65 42,2025-09-02
+CUST-0019,Osborn and Sons,SMB,Starter,E-commerce,US,Port Danielburgh,William,Davis,william.davis@osbornandsons.com,+1-669-716-6978x48018,2025-08-16
+CUST-0020,Schuster Knappe AG & Co. KGaA,SMB,Starter,Consulting,Germany,Stuttgart,Pavel,Klapp,pavel.klapp@schusterknappeagcokg.com,+49(0)1928 32764,2024-05-16
+CUST-0021,Stroh,SMB,Starter,Consulting,Germany,Bautzen,Brigitte,Hartmann,brigitte.hartmann@stroh.com,+49(0) 056413953,2025-12-02
+CUST-0022,Ledoux Marques SA,SMB,Starter,Media,France,Sainte Camilleboeuf,Éric,Gillet,éric.gillet@ledouxmarquessa.com,0173781618,2025-09-12
+CUST-0023,Carter and Sons,SMB,Starter,Energy,US,Teresaburgh,Shawn,Mckay,  shawn.mckay@carterandsons.com,914.289.3252x88095,2024-02-17
+CUST-0024,Hickman LLC,SMB,Starter,Retail,US,North Jessicaland,John,Allen,john.allen@hickmanllc.com,001-682-827-8248x96383,2024-12-18
+CUST-0025,Techer,SMB,Starter,Education,France,Olivier-sur-Fischer,Laure,Étienne,laure.étienne@techer.com,+33 (0)1 74 34 13 16,2024-06-23
+CUST-0026,"Duncan, Read and George",SMB,Starter,Media,UK,Phillipsborough,Ryan,Nelson,ryan.nelson@duncanreadandgeorge.com,020 74960537,2025-10-09
+CUST-0027,"Santos, Kim and Holmes",SMB,Starter,Software,US,Andrewside,David,Walker,david.walker@santoskimandholmes.com,793.301.0310,2024-08-04
+CUST-0028,De Sousa,SMB,Starter,Energy,France,Lemaître,Luce,Marchal,luce.marchal@desousa.com,0361419283,2024-10-14
+CUST-0029,"Young, Caldwell and Lewis",SMB,Starter,Manufacturing,US,Sanchezfort,David,Walls,david.walls@youngcaldwellandlewi.com,(331)516-5667x01065,2025-07-14
+CUST-0030,Lee Group,SMB,Starter,Healthcare,US,Wrightland,Donald,White,donald.white@leegroup.com,581.808.0132x677,2024-12-26
+CUST-0031,Pinto Gillet SARL,SMB,Starter,Consulting,France,Vasseurboeuf,Lucie,Lagarde,lucie.lagarde@pintogillet.com,+33 (0)3 71 05 64 13,2025-10-07
+CUST-0032,Young-Graham,SMB,Starter,Software,UK,Lake Chelsea,Gareth,Pritchard,gareth.pritchard@younggraham.com,(0191)4960496,2024-07-23
+CUST-0033,Lecomte,SMB,Starter,Real Estate,France,Weissdan,Marcelle,Didier,marcelle.didier@lecomte.com,+33 4 13 23 88 49,2025-12-13
+CUST-0034,Ortmann,SMB,Starter,Consulting,Germany,Dinkelsbühl,Riza,Seifert,riza.seifert@ortmann.com,+49(0)2388 49696,2025-11-29
+CUST-0035,Martin Inc,SMB,Starter,E-commerce,US,Mitchellside,Tricia,Baker,tricia.baker@martin.com,+1-972-434-3098x05009,01/14/2024
+CUST-0036,"Matthews, Lloyd and Turner",SMB,Starter,Real Estate,UK,Port Jamieberg,Natasha,Hughes,natasha.hughes@matthewslloydandturn.com,(028) 9018269,2025-10-16
+CUST-0037,Cooper PLC,SMB,Starter,Manufacturing,UK,Lake Geoffreyside,Jade,Hill,jade.hill@cooperplc.com,0306 999 0451,2025-02-12
+CUST-0038,Yu Inc,SMB,Starter,Consulting,US,Lake Michellefurt,Melissa,Jones,melissa.jones@yu.com,793-699-0916,2025-10-07
+CUST-0039,Williams-Price,SMB,Starter,Media,UK,New Kenneth,Marcus,Page,marcus.page@williamsprice.com,,11/11/2025
+CUST-0040,Guillon,SMB,Starter,Media,France,Dos Santos,Andrée,Étienne,andrée.étienne@guillon.com,02 34 01 22 69,2025-09-26
+CUST-0041,Santiago LLC,SMB,Starter,Logistics,US,Stephenland,John,Foster,john.foster@santiagollc.com,6794911838,2025-03-17
+CUST-0042,Ibarra-Suarez,SMB,Starter,FinTech,US,Cherylhaven,Mike,Moore,  mike.moore@ibarrasuarez.com,4846124118,2024-01-25
+CUST-0043,Collin S.A.R.L.,SMB,Starter,Logistics,France,DeschampsVille,Jeannine,Bigot,jeannine.bigot@collin.com,+33 (0)4 15 51 46 27,2024-07-24
+CUST-0044,Gould and Sons,SMB,Starter,Media,UK,New Brandonfort,Sheila,Watson,  sheila.watson@gouldandsons.com,(0113) 4960154,2025-12-14
+CUST-0045,Jacobs-Robbins,SMB,Starter,Retail,US,Williamview,James,Walters,james.walters@jacobsrobbins.com,4169400524,2024-05-14
+CUST-0046,Hartmann Etzler GmbH & Co. OHG,SMB,Starter,,Germany,Calau,Änne,Conradi,änne.conradi@hartmannetzlercoohg.com,+49 (0) 2691 669784,19-03-2024
+CUST-0047,"Thornton, Hoffman and Rodriguez",SMB,Starter,FinTech,US,New Barry,Sierra,Vazquez,sierra.vazquez@thorntonhoffmanandro.com,(598)326-2045x053,2025-07-07
+CUST-0048,Deleon-Henson,SMB,Starter,Logistics,US,East Michelle,Richard,Oliver,richard.oliver@deleonhenson.com,(360)825-6342,2024-02-10
+CUST-0049,Garrison and Sons,SMB,Starter,Retail,US,Kevinbury,James,Sellers,james.sellers@garrisonandsons.com,803.765.4145,2025-06-24
+CUST-0050,Mace et Fils,SMB,Starter,Software,France,Guillou,Rémy,Charrier,rémy.charrier@maceetfils.com,+33 (0)4 56 89 32 52,2025-01-31
+CUST-0051,Atzler,SMB,Starter,Education,Germany,Teterow,Hanne,Ullmann,hanne.ullmann@atzler.com,04514 62704,2025-11-25
+CUST-0052,Tomlinson PLC,SMB,Starter,Software,UK,Sharpside,Jason,Cunningham,jason.cunningham@tomlinsonplc.com,(0306) 9990227,2024-03-20
+CUST-0053,Wilson LLC,SMB,Starter,Logistics,US,Benjaminchester,Gregory,Estes,gregory.estes@wilsonllc.com,(256)598-1693x406,2024-05-05
+CUST-0054,"O'Brien, Hill and Jenkins",SMB,Starter,Media,UK,Lake Graeme,Phillip,Murray,phillip.murray@obrienhillandjenkins.com  ,+44141 496 0578,2025-10-13
+CUST-0055,O'Neill-Wilson,SMB,Starter,Software,UK,New Gerald,Declan,Brown,declan.brown@oneillwilson.com,0113 4960103,2025-11-13
+CUST-0056,Reynolds-Rush,SMB,Starter,Education,US,Lake Rachelhaven,Samantha,Hanson,samantha.hanson@reynoldsrush.com,665-864-8236x6299,2024-03-04
+CUST-0057,"Bass, Torres and Clark",SMB,Starter,Manufacturing,US,Stevenmouth,Kristi,Lawson,kristi.lawson@basstorresandclark.com,+1-538-472-1489x51343,2025-12-13
+CUST-0058,Howe LLC,SMB,Starter,Energy,UK,Aimeefort,Steven,Lewis,steven.lewis@howellc.com,+44117 496 0829,2025-08-27
+CUST-0059,"Jones, McKenzie and Mann",SMB,Starter,Software,UK,Nixonchester,Karl,Green,karl.green@jonesmckenzieandmann.com,+44(0)1514960010,2024-06-10
+CUST-0060,Joseph SARL,SMB,Starter,Consulting,France,Sainte Véronique-la-Forêt,Claudine,Moreau,claudine.moreau@joseph.com,+33 1 80 39 11 71,2025-08-18
+CUST-0061,Wiek,SMB,Starter,Energy,Germany,Schwäbisch Hall,Hans Josef,Patberg,hansjosef.patberg@wiek.com,+49(0)8932 52880,2025-10-28
+CUST-0062,Williams Group,SMB,Starter,Education,US,Perryshire,Cheryl,Mack,cheryl.mack@williamsgroup.com,567.463.2016,2025-10-29
+CUST-0063,"Holmes, Williams and Wright",SMB,Starter,Retail,US,Contrerasside,Melinda,Bryant,melinda.bryant@holmeswilliamsandwri.com,+1-557-698-6872x774,2025-06-05
+CUST-0064,"Washington, Allen and Gonzales",SMB,Starter,FinTech,US,Luisside,Jennifer,Young,jennifer.young@washingtonallenandgo.com,,11/18/2025
+CUST-0065,Briggs-Roberts,SMB,Starter,FinTech,UK,New Lucy,Raymond,Smith,raymond.smith@briggsroberts.com,+44(0)1154960624,2024-10-25
+CUST-0066,Smith-Preston,SMB,Starter,E-commerce,UK,North Naomiside,Angela,Mann,angela.mann@smithpreston.com,+44(0)808 1570013,2025-03-24 00:00:00
+CUST-0067,Stevenson Group,SMB,Starter,Energy,UK,East Jessicatown,Allan,Taylor,allan.taylor@stevensongroup.com,(0141) 496 0474,2024-08-27
+CUST-0068,"Owens, Brown and Wall",SMB,Starter,Energy,US,Port Nicoleshire,Perry,Carrillo,perry.carrillo@owensbrownandwall.com,(670)854-6688x9373,12/16/2025
+CUST-0069,Johnson-Rogers,SMB,Starter,Media,US,Port Tanner,Erin,Powell,erin.powell@johnsonrogers.com,(898)406-9901,2025-02-21
+CUST-0070,Rodriguez Delmas S.A.R.L.,SMB,Starter,Healthcare,France,Evrard,Emmanuelle,Gaillard,emmanuelle.gaillard@rodriguezdelmas.com,03 62 83 46 57,2025-08-07
+CUST-0071,Booth-Elliott,SMB,Starter,E-commerce,UK,Nashport,Suzanne,Adams,suzanne.adams@boothelliott.com,,2025-05-18
+CUST-0072,White-Green,SMB,Starter,Consulting,US,Kathleenfurt,Mark,Gibson,mark.gibson@whitegreen.com,264-517-0805x310,2025-08-31
+CUST-0073,Morris Inc,SMB,Starter,E-commerce,UK,North Natasha,Adam,Jackson,adam.jackson@morris.com,+441144960219,10/29/2025
+CUST-0074,Mathieu,SMB,Starter,Manufacturing,France,Sainte Alphonse-sur-Mer,Paul,Jean,paul.jean@mathieu.com,+33 1 40 10 31 05,2025-11-04
+CUST-0075,Junitz,SMB,Starter,Retail,Germany,Karlsruhe,Adele,Bähr,adele.bähr@junitz.com,+49(0)3039 11718,2024-02-10
+CUST-0076,Combs PLC,SMB,Starter,Education,US,New Staciemouth,Elijah,Martinez,elijah.martinez@combsplc.com,001-645-829-9124x190,2024-04-29
+CUST-0077,David-Gonzalez,SMB,Starter,Software,US,North Heidi,Brittany,Rivas,brittany.rivas@davidgonzalez.com,891-990-5865x1850,2025-11-11
+CUST-0078,Hamilton LLC,SMB,Starter,Manufacturing,US,South Gregory,Cynthia,Poole,cynthia.poole@hamiltonllc.com,549.987.7694x53147,2024-10-22
+CUST-0079,Eckbauer OHG mbH,SMB,Starter,Consulting,Germany,Grimmen,Willibald,Rogner,willibald.rogner@eckbauerohgmbh.com,09638 34657,2024-10-09
+CUST-0080,Buisson S.A.,SMB,Starter,Media,France,Benoit-les-Bains,Roger,Laroche,roger.laroche@buissonsa.com,03 81 76 31 16,2025-12-15
+CUST-0081,Briand,SMB,Starter,Media,France,Saint Charles,Antoinette,Bigot,antoinette.bigot@briand.com,04 82 13 33 87,2024-08-04
+CUST-0082,Davies and Sons,SMB,Starter,Logistics,UK,New Marilyn,Sophie,Baldwin,sophie.baldwin@daviesandsons.com,+44(0)113 4960916,2024-11-01 00:00:00
+CUST-0083,"Bishop, Gray and Johnson",SMB,Starter,Education,US,West Lauren,Melissa,White,melissa.white@bishopgrayandjohnson.com,949-948-0831x36783,2024-04-18
+CUST-0084,Mcguire-Davis,SMB,Starter,Logistics,US,Elizabethstad,Jeffrey,Holt,jeffrey.holt@mcguiredavis.com,388.556.8557x4443,2025-03-18
+CUST-0085,Briand Vidal SARL,SMB,Starter,Energy,France,Sainte SusanBourg,CÃ©lina,Menard,célina.menard@briandvidal.com,+33 (0)1 44 13 26 77,2025-10-30
+CUST-0086,Wilson-Herrera,SMB,Starter,Retail,US,Lake Todd,Kathleen,Lopez,kathleen.lopez@wilsonherrera.com,001-498-694-1343x5240,2025-09-21
+CUST-0087,Mccann PLC,SMB,Starter,Retail,US,Garciatown,Kelly,Raymond,kelly..raymond@mccannplc.com,001-947-377-5204,2025-08-16
+CUST-0088,Morales Inc,SMB,Starter,Energy,US,East Lisa,Barbara,Parks,barbara.parks@morales.com,913-618-6999x3867,2025-08-15
+CUST-0089,"Jackson, Norris and Hudson",SMB,Starter,Retail,UK,Shaneview,Dennis,Davies,dennis.davies@jacksonnorrisandhuds.com,(0141)4960247,2024-04-22
+CUST-0090,"Branch, Torres and Oliver",SMB,Starter,Real Estate,US,Lake Jason,Chelsea,Singh,chelsea.singh@branchtorresandolive.com,,2024-08-02
+CUST-0091,Mentzel,SMB,Starter,Real Estate,Germany,Belzig,Erol,Hentschel,erol.hentschel@mentzel.com,00983930103,2024-05-15 00:00:00
+CUST-0092,Maréchal Lopez S.A.,SMB,Starter,Media,France,Aubrydan,Alex,Bernard,alex.bernard@maréchallopezsa.com,0563872343,2025-05-16
+CUST-0093,Delorme et Fils,SMB,Starter,E-commerce,France,Boyer,Élodie,Bonnet,élodie.bonnet@delormeetfils.com,+33 (0)6 88 82 08 12,2024-02-02
+CUST-0094,Murray-Hudson,SMB,Starter,Consulting,UK,North Shannonborough,John,Hale,jOhN.HaLe@mUrRaYhUdSoN.CoM,+44(0)161 496 0425,2024-04-11
+CUST-0095,Mann-Warner,SMB,Starter,FinTech,US,Kristinshire,Shawn,Mcdaniel,shawn.mcdaniel@mannwarner.com,+1-636-918-3242x10249,2024-02-27
+CUST-0096,Valentin SA,SMB,Starter,Media,France,Mathieu-sur-Mer,Margot,Huet,margot.huet@valentinsa.com,+33 (0)2 29 69 98 54,2025-07-15
+CUST-0097,Harrison LLC,SMB,Starter,Media,US,Kimton,Holly,Bender,holly.bender@harrisonllc.com,(959)940-1399x04902,2025-01-15
+CUST-0098,White-Richards,SMB,Starter,E-commerce,US,South Michaelmouth,Cynthia,Vasquez,cynthia.vasquez@whiterichards.com,712-356-7468x07154,2024-12-23
+CUST-0099,Shaw LLC,SMB,Starter,Real Estate,UK,Mollyhaven,Glen,Fraser,glen.fraser@shawllc.com,01134960841,2025-02-10
+CUST-0100,Laroche Auger SARL,SMB,Starter,FinTech,France,Payet-la-Forêt,Olivier,Aubry,olivier.aubry@larocheauger.com,04 70 10 79 91,2025-09-04
+CUST-0101,Pritchard Inc,SMB,Starter,Manufacturing,UK,Rachaelborough,Andrea,Bryan,andrea.bryan@pritchard.com,(01632) 960 534,2025-10-05
+CUST-0102,Hancock-Bryan,SMB,Starter,Energy,US,Gutierrezborough,Aaron,Booth,aaron.booth@hancockbryan.com,259.577.0348x24771,2025-11-25
+CUST-0103,"Moore, Pierce and Tran",SMB,Starter,FinTech,US,South Staceyberg,Christopher,Gay,christopher.gay@moorepierceandtran.com,448.346.7737x8263,2025-09-25
+CUST-0104,Tanguy S.A.,SMB,Starter,Real Estate,France,Lévêque,Corinne,Aubry,corinne.aubry@tanguysa.com,,07/21/2024
+CUST-0105,Martineau S.A.S.,SMB,Starter,Retail,France,Saint RémyBourg,Théophile,Dupré,théophile.dupré@martineausas.com,+33 (0)2 96 44 93 53,2025-08-09
+CUST-0106,Bodin,SMB,Starter,Real Estate,France,Saint Luce,Claudine,Deschamps,claudine.deschamps@bodin.com,04 27 00 52 42,2025-02-09
+CUST-0107,Beckmann GmbH,SMB,Starter,Media,Germany,Görlitz,Christos,Pieper,christos.pieper@beckmann.com,(07382) 99737,2025-10-04
+CUST-0108,Courtois,SMB,Starter,Software,France,PetitBourg,Maryse,Launay,maryse.launay@courtois.com,+33 (0)2 79 80 59 82,2024-07-14
+CUST-0109,"Jones, Howe and Baker",SMB,Starter,Healthcare,UK,Samueltown,Colin,Thomson,colin.thomson@joneshoweandbaker.com,0131 4960242,2024-01-13
+CUST-0110,"Williams, Cole and Moore",SMB,Starter,Manufacturing,UK,New Alan,Nathan,Tucker,nathan.tucker@williamscoleandmoore.com,+44(0)808 157 0598,2024-08-17
+CUST-0111,Rodriguez,SMB,Starter,Energy,France,Fournier,Augustin,Le Gall,augustin.legall@rodriguez.com,,2024-11-04
+CUST-0112,Barton-Dickerson,SMB,Starter,FinTech,US,Loriport,Matthew,French,matthew.french@bartondickerson.com,001-849-997-2787x5588,2025-03-21
+CUST-0113,Grein Groth Dehmel AG,SMB,Starter,Energy,Germany,Lüneburg,Gertraude,Losekann,gertraude.losekann@greingrothdehmelag.com,0701065133,2025-06-13
+CUST-0114,Gomez Goncalves S.A.,SMB,Starter,Media,France,Gallet,Antoinette,Laurent,antoinette.laurent@gomezgoncalvessa.com,0556342160,2025-04-23
+CUST-0115,Kane-Pollard,SMB,Starter,Manufacturing,US,Williamsfort,John,Reyes,john.reyes@kanepollard.com,001-366-927-0289x517,2024-04-20
+CUST-0116,Louis,SMB,Starter,Software,France,Schneider,Luc,Jacques,luc.jacques@louis.com,+33 3 68 03 65 41,2025-09-12 00:00:00
+CUST-0117,Bowen Group,SMB,Starter,Software,US,South Kimberlyview,Monica,Booker,monica.booker@bowengroup.com,696-515-8657x80913,2024-10-06
+CUST-0118,"Davis, Good and Hodges",SMB,Starter,Logistics,US,Lake Kevin,Jane,Garcia,jane.garcia@davisgoodandhodges.com,5058045562,2025-05-21
+CUST-0119,Sykes Inc,SMB,Starter,Healthcare,UK,West Rhysbury,Mohammad,Hargreaves,mohammad.hargreaves@sykes.com,0292018158,2024-11-23
+CUST-0120,Simpson-Morris,SMB,Starter,Consulting,UK,South Peter,Frank,Taylor,frank.taylor@simpsonmorris.com,+44(0)116 496 0563,2025-01-03
+CUST-0121,Reising GmbH & Co. KG,SMB,Starter,E-commerce,Germany,Görlitz,Fridolin,Löchel,fridolin.löchel@reisingcokg.com,03178 108013,2025-01-19
+CUST-0122,"Maldonado, White and Thompson",SMB,Starter,FinTech,US,South Roberta,Chelsea,Reyes,chelsea.reyes@maldonadowhiteandtho.com,(437)347-4074,2025-11-16
+CUST-0123,Walsh-Harrison,SMB,Starter,Retail,UK,Mortonmouth,Margaret,Carr,margaret.carr@walshharrison.com,(0131)4960433,18-04-2024
+CUST-0124,Knowles Group,SMB,Starter,Healthcare,UK,Port Rickystad,Hugh,White,hugh.white@knowlesgroup.com,+44289018868,2024-03-22
+CUST-0125,Singh-Clark,SMB,Starter,Consulting,UK,Ianville,Elliot,Carpenter,elliot.carpenter@singhclark.com,+442074960655,2024-02-14
+CUST-0126,Landry-Huerta,SMB,Starter,Media,US,Stephenport,Kevin,Hayden,kevin.hayden@landryhuerta.com,667.613.6959,2024-04-17
+CUST-0127,Butler-Lewis,SMB,Starter,Media,UK,West Samuel,Emma,Sutton,emma.sutton@butlerlewis.com,01632 960608,2024-05-18
+CUST-0128,Spence Ltd,SMB,Starter,Software,US,New Julieport,Randy,Smith,randy.smith@spence.com,001-739-453-3942x10470,2025-05-05
+CUST-0129,Marty,SMB,Starter,Media,France,Potierboeuf,Lucy,Grégoire,lucy.grégoire@marty.com,+33 (0)2 49 42 94 01,2025-05-19
+CUST-0130,Barre,SMB,Starter,Real Estate,France,SeguinBourg,Nathalie,Bouvier,nathalie.bouvier@barre.com,03 51 40 60 88,2025-01-06
+CUST-0131,"Holmes, Singh and Pratt",SMB,Starter,FinTech,UK,Lake Mohamedmouth,Dominic,Hargreaves,dominic.hargreaves@holmessinghandpratt.com,029 2018148,2024-08-24
+CUST-0132,King-Rose,SMB,Starter,Logistics,UK,East Emily,Bethan,Doyle,bethan.doyle@kingrose.com,0292018629,2025-08-13
+CUST-0133,Marchal Perret SA,SMB,Starter,Manufacturing,France,Bouvier-sur-Dupré,Margot,Rémy,margot.rémy@marchalperretsa.com,+33 (0)4 57 84 65 64,2025-06-10
+CUST-0134,"Hodgson, French and Savage",SMB,Starter,Retail,UK,Nataliemouth,Mitchell,Kelly,mitchell.kelly@hodgsonfrenchandsava.com,(0151)4960387,2024-01-24
+CUST-0135,Ladeck GmbH & Co. KGaA,SMB,Starter,Media,Germany,Beeskow,Wolfgang,Hamann,wolfgang.hamann@ladeckcokgaa.com,,2025-08-22
+CUST-0136,Hübel AG & Co. OHG,SMB,Starter,Healthcare,Germany,Wolfratshausen,Wendelin,Bohlander,wendelin.bohlander@hübelagcoohg.com,,2025-09-01
+CUST-0137,Olivier De Oliveira et Fils,SMB,Starter,Media,France,Chauvet,Alex,Labbé,alex.labbé@olivierdeoliveiraetf.com,0553804436,2024-03-24
+CUST-0138,Browning LLC,SMB,Starter,Retail,US,Port Amber,Julie,Thompson,jUlIe.tHoMpSoN@BrOwNiNgLlC.CoM,(488)542-4745x171,2025-05-26
+CUST-0139,"Thompson, Cunningham and Lewis",SMB,Starter,Consulting,UK,Port Damianport,Ashleigh,Bibi,ashleigh.bibi@thompsoncunninghaman.com,+44(0)117 496 0320,2025-05-31
+CUST-0140,"Ramsey, Whitney and Coffey",SMB,Starter,Energy,US,Smithside,Linda,Diaz,linda.diaz@ramseywhitneyandcoff.com,975-249-6513,2025-09-29
+CUST-0141,"Henson, Hoffman and Herman",SMB,Starter,Real Estate,US,Blankenshipport,Jeffrey,Brown,jeffrey.brown@hensonhoffmanandherm.com,+1-861-920-0471x1382,2025-06-14
+CUST-0142,Santiago-Paul,SMB,Starter,Software,US,South Diana,Sonya,Barnes,sonya.barnes@santiagopaul.com,796.240.5377x3515,2025-01-05
+CUST-0143,Smith Group,SMB,Starter,Real Estate,UK,South Elizabethshire,Kathryn,Baker,kathryn.baker@smithgroup.com,0117 4960676,2024-06-21
+CUST-0144,Bohnbach KG,SMB,Starter,Software,Germany,Luckau,Cetin,Steuer,cetin.steuer@bohnbachkg.com,+49(0)9399 091699,2024-04-08
+CUST-0145,Turpin,SMB,Starter,Energy,France,Gros,Capucine,Pichon,capucine.pichon@turpin.com,03 22 14 89 51,2025-12-10
+CUST-0146,Kennedy Ltd,SMB,Starter,Manufacturing,UK,Port Dianebury,Christopher,Lawrence,christopher.lawrence@kennedy.com,+44(0)116 496 0870,2025-07-28
+CUST-0147,Jopich,SMB,Starter,Healthcare,Germany,Strausberg,Sylvia,Heß,sylvia.heß@jopich.com,03462475107,2024-06-25
+CUST-0148,"Smith, Baker and Murphy",SMB,Starter,Logistics,UK,Angelahaven,Gillian,King,gillian.king@smithbakerandmurphy.com,,2024-05-17
+CUST-0149,Hill-Donaldson,SMB,Starter,Healthcare,US,Lake Jasontown,Stacy,Holloway,stacy.holloway@hilldonaldson.com,5535293183,2024-03-12
+CUST-0150,"Taylor, Power and Mitchell",SMB,Starter,Real Estate,UK,Johnsonview,Kim,White,kim.white@taylorpowerandmitche.com,(0151) 4960143,2025-01-18
+CUST-0151,Rose,SMB,Starter,Real Estate,Germany,Ochsenfurt,Eckhard,Briemer,eckhard.briemer@rose.com,+49(0)2513 54278,2025-06-03
+CUST-0152,Jacobi Jäckel,SMB,Starter,E-commerce,Germany,Strasburg,Eleonora,Söding,eleonora..söding@jacobijäckel.com,04124 11824,2024-11-07
+CUST-0153,Goodwin-Lawrence,SMB,Starter,Real Estate,UK,South Annette,Jonathan,Khan,jOnAtHaN.KhAn@gOoDwInLaWrEnCe.cOm,(0116) 496 0316,2025-06-26
+CUST-0154,Butcher-Hall,SMB,Starter,Manufacturing,UK,McCarthyshire,Benjamin,Martin,benjamin.martin@butcherhall.com,+44(0)29 2018096,2025-02-15
+CUST-0155,Schleich Häring Stiftung & Co. KG,SMB,Starter,Software,Germany,Oberviechtach,Mohamed,Haase,mohamed.haase@schleichhäringstiftu.com,04016 400524,21-01-2025
+CUST-0156,Bailey-Parsons,SMB,Starter,Energy,UK,Powellside,Janet,Davis,janet.davis@baileyparsons.com,0808 157 0937,2025-06-05
+CUST-0157,Schroeder-Kramer,SMB,Starter,Manufacturing,US,East Amber,Caitlin,Ramirez,caitlin.ramirez@schroederkramer.com,(210)420-5395,2025-10-26
+CUST-0158,Williams-Harmon,SMB,Starter,Retail,US,Weststad,Alicia,Reese,alicia..reese@williamsharmon.com,891.878.3908x47007,2024-02-22
+CUST-0159,"Rodriguez, Joseph and Wallace",SMB,Starter,E-commerce,US,North David,Rachel,Morris,rachel.morris@rodriguezjosephandwa.com,+1-398-356-9847x896,2025-02-20
+CUST-0160,Weihmann GmbH & Co. KG,SMB,Starter,Logistics,Germany,Regen,Bianka,Trapp,bianka.trapp@weihmanncokg.com,+49(0)1128059826,2024-04-22 00:00:00
+CUST-0161,Sharpe Group,SMB,Starter,Manufacturing,UK,Woodmouth,Matthew,McCarthy,matthew.mccarthy@sharpegroup.com,+441154960980,2025-12-26
+CUST-0162,Berger GmbH,SMB,Starter,Manufacturing,Germany,Freital,Ottokar,Benthin,ottokar.benthin@berger.com,(03158) 69232,2025-11-25
+CUST-0163,Maillet Ruiz S.A.,SMB,Starter,Media,France,Laurent,Susan,Philippe,susan.philippe@mailletruizsa.com,+33 (0)3 82 79 17 69,2025-10-01
+CUST-0164,Wagner Grenier S.A.R.L.,SMB,Starter,Manufacturing,France,Caron,Clémence,Alexandre,clémence.alexandre@wagnergrenier.com,+33 (0)2 44 63 28 70,2024-11-17 00:00:00
+CUST-0165,Lehmann AG,SMB,Starter,,Germany,Lörrach,Hans Jürgen,Walter,hansjürgen.walter@lehmannag.com,(03421) 60733,2025-10-22
+CUST-0166,Killer Jäkel e.V.,SMB,Starter,Media,Germany,Aue,Ottilie,Heidrich,  ottilie.heidrich@killerjäkelev.com,(03654) 14586,2024-05-15
+CUST-0167,Rivière Pineau S.A.,SMB,Starter,E-commerce,France,Vaillantboeuf,Suzanne,Barthelemy,suzanne.barthelemy@rivièrepineausa.com,05 65 87 27 74,2024-05-05
+CUST-0168,Reising,SMB,Starter,Healthcare,Germany,Griesbach Rottal,Maximilian,Baum,maximilian.baum@reising.com,+49 (0) 9401 965569,2025-07-02
+CUST-0169,Diaz Baron S.A.S.,SMB,Starter,Energy,France,Paris,Claire,Toussaint,claire..toussaint@diazbaronsas.com,02 23 43 45 58,2024-07-04
+CUST-0170,Drub,SMB,Starter,Retail,Germany,Greiz,Raymond,Rust,raymond.rust@drub.com,+49(0)6088356159,2024-11-12
+CUST-0171,Dos Santos S.A.,SMB,Starter,Education,France,Munoz,Nicolas,Jacob,nicolas.jacob@dossantossa.com,+33 1 83 66 58 76,2025-11-05
+CUST-0172,"Curtis, Mack and Le",SMB,Starter,Retail,US,South Matthew,Jason,Hayes,jason.hayes@curtismackandle.com,366.315.6545x271,2025-03-09
+CUST-0173,Reynolds Ltd,SMB,Starter,Education,US,New Sueside,Joanne,Cain,joanne.cain@reynolds.com,416-956-0494x51983,2024-08-23
+CUST-0174,Boone LLC,SMB,Starter,Logistics,US,Audreychester,Megan,Richardson,megan.richardson@boonellc.com,+1-699-680-9402,2024-01-17
+CUST-0175,Spieß Ebert Stiftung & Co. KGaA,SMB,Starter,Real Estate,Germany,Strasburg,Ruth,Jacob,ruth.jacob@spießebertstiftungco.com,0564823662,2024-02-06
+CUST-0176,Bell-White,SMB,Starter,Retail,US,East Joycetown,Douglas,Sandoval,douglas.sandoval@bellwhite.com,683-766-7525,2024-05-22
+CUST-0177,Roskoth,SMB,Starter,Logistics,Germany,Hansestadttralsund,Kurt,Lachmann,kurt.lachmann@roskoth.com,+49(0)3699 57773,2024-04-29
+CUST-0178,"Carlson, Ware and Moore",SMB,Starter,Healthcare,US,West Scottchester,Karen,Williams,karen.williams@carlsonwareandmoore.com,997.664.3815x6149,2025-11-29
+CUST-0179,Wright-Adams,SMB,Starter,Consulting,UK,Port Bethany,Jake,Graham,jake.graham@wrightadams.com,+44(0)116 4960046,2025-05-19
+CUST-0180,Leclerc S.A.R.L.,SMB,Starter,Education,France,Grenier-sur-Lefebvre,Amélie,Pires,amélie.pires@leclerc.com,06 80 54 66 88,2025-04-27
+CUST-0181,Walker PLC,SMB,Starter,Consulting,US,Port Derrick,Brian,Harris,brian.harris@walkerplc.com  ,745-310-7622x683,2024-09-17
+CUST-0182,Hensley-Williams,SMB,Starter,FinTech,US,Barbarashire,Andrew,Morse,andrew..morse@hensleywilliams.com,(364)516-0529x7516,2025-05-10
+CUST-0183,Kelly-Mills,SMB,Starter,Media,UK,Smithland,Jessica,White,jessica.white@kellymills.com,0161 496 0080,2024-03-22
+CUST-0184,Coulon Vasseur SARL,SMB,Starter,Manufacturing,France,Sainte Yves,Bernadette,Vallée,bernadette.vallée@coulonvasseur.com,03 20 72 98 06,2025-03-28
+CUST-0185,Wilson-Rees,SMB,Starter,FinTech,UK,East Marctown,Naomi,Thomas,naomi.thomas@wilsonrees.com,(028) 9018 0232,2024-02-22
+CUST-0186,Chapman-Warren,SMB,Starter,Software,US,Jeffreyburgh,Randy,Collins,randy.collins@chapmanwarren.com,581-388-3552,2025-10-27 00:00:00
+CUST-0187,Scott and Sons,SMB,Starter,Media,US,East Stephaniefort,Carrie,Wolf,carrie.wolf@scottandsons.com,999.679.9552x717,05/28/2024
+CUST-0188,Vargas-Bell,SMB,Starter,Healthcare,US,North Miguelport,Charles,Murray,charles.murray@vargasbell.com,219-998-6798,2025-01-22
+CUST-0189,Perez et Fils,SMB,Starter,E-commerce,France,VidalVille,Aurélie,Dufour,aurélie.dufour@perezetfils.com,0519537556,2025-05-22
+CUST-0190,"Pearson, Morris and Alvarez",SMB,Starter,Logistics,US,Port Rachelmouth,Edward,Brown,eDwArD.BrOwN@PeArSoNmOrRiSaNdAlVa.cOm,001-718-720-3778x892,2025-08-05 00:00:00
+CUST-0191,Mühle,SMB,Starter,Energy,Germany,Steinfurt,Loni,Wähner,loni.wähner@mühle.com,+49(0)4895 134332,2025-06-11
+CUST-0192,Bien GbR,SMB,Starter,Education,Germany,Miesbach,Willibald,Schmidt,willibald.schmidt@biengbr.com,0936763201,2025-02-02
+CUST-0193,Davies-Moore,SMB,Starter,Energy,UK,Lauraburgh,Charlie,Hall,charlie.hall@daviesmoore.com,+44(0)2074960912,2025-01-30
+CUST-0194,Hartmann Gierschner e.V.,SMB,Starter,Retail,Germany,Badibling,Vera,Textor,vera.textor@hartmanngierschnerev.com,03172 78895,2025-12-30
+CUST-0195,Schmidtke Tschentscher GmbH & Co. OHG,SMB,Starter,Media,Germany,Ebern,Slawomir,Rogge,slawomir.rogge@schmidtketschentsche.com,07434 873471,2024-09-30
+CUST-0196,Griffiths-Payne,SMB,Starter,Manufacturing,UK,Frostborough,Graeme,Allen,graeme.allen@griffithspayne.com,+44114 4960931,2025-08-27
+CUST-0197,Hughes-Schroeder,SMB,Starter,Logistics,US,Cameronville,Erika,Williams,erika.williams@hughesschroeder.com,+1-464-749-2519,2025-07-16
+CUST-0198,Ponce-Hale,SMB,Starter,Media,US,West Angelicamouth,Philip,Larson,philip.larson@poncehale.com,(481)568-5054,2025-11-11
+CUST-0199,Chrétien,SMB,Starter,Logistics,France,Faure,Véronique,De Oliveira,véronique.deoliveira@chrétien.com,01 46 80 53 10,2025-01-01
+CUST-0200,Meza-Tucker,SMB,Starter,Real Estate,US,West Meganville,Jeremy,Taylor,jeremy.taylor@mezatucker.com,988.205.9296x22292,2024-12-16
+CUST-0201,Diaz-Ball,SMB,Starter,Real Estate,US,Youngbury,Tara,Bishop,tara.bishop@diazball.com,573-459-7746x8862,2025-03-06
+CUST-0202,Williams-Castillo,SMB,Starter,Retail,US,West Christopherburgh,Nathan,Villa,nathan.villa@williamscastillo.com,878-726-1375x060,2024-01-23
+CUST-0203,Hughes Inc,SMB,Starter,FinTech,US,Port Jennifermouth,Nicholas,Johnson,nicholas.johnson@hughes.com,(220)347-2779,2024-04-26
+CUST-0204,Hoarau S.A.,SMB,Starter,Media,France,Brunet-sur-Dupuis,Virginie,Lefebvre,virginie.lefebvre@hoarausa.com,+33 6 61 93 74 52,2024-10-29
+CUST-0205,Scott and Sons,SMB,Starter,Healthcare,US,Rodriguezport,Ana,Acosta,ana.acosta@scottandsons.com,341.903.6971,28-08-2025
+CUST-0206,"Clements, Baker and Foster",SMB,Starter,Consulting,UK,West Staceychester,Trevor,Coles,trevor.coles@clementsbakerandfost.com,029 2018518,2024-11-23
+CUST-0207,Merle S.A.,SMB,Starter,Software,France,Michel-sur-Langlois,Thierry,Nicolas,thierry.nicolas@merlesa.com,05 45 31 93 14,2025-10-16
+CUST-0208,Hörle,SMB,Starter,Healthcare,Germany,Herzberg,Horst-Günter,Heydrich,horst-günter.heydrich@hörle.com,01223 62316,2025-01-29
+CUST-0209,Moreno SA,SMB,Starter,Consulting,France,Peltierboeuf,Adélaïde,Rossi,adélaïde.rossi@morenosa.com,+33 (0)4 83 06 71 65,2024-10-01
+CUST-0210,"Herrera, Chen and Andrews",SMB,Starter,Education,US,New Michaelshire,Jennifer,Carter,jennifer.carter@herrerachenandandrew.com,(221)885-1888x88067,2025-08-28
+CUST-0211,King-Smith,SMB,Starter,Healthcare,US,Port Bonniemouth,Kristina,Cooper,kristina.cooper@kingsmith.com,(405)385-2772,2025-06-21 00:00:00
+CUST-0212,Kabus Riehl GmbH & Co. KG,SMB,Starter,Healthcare,Germany,Lüdinghausen,Senol,Bolander,senol.bolander@kabusriehlcokg.com,0909670546,2025-04-19 00:00:00
+CUST-0213,"Parsons, Ellis and Carter",SMB,Starter,E-commerce,US,West Sarahhaven,Bradley,Gonzalez,bradley.gonzalez@parsonsellisandcarte.com,(887)840-3450x5415,2025-07-04
+CUST-0214,Renner Weinhold Stiftung & Co. KGaA,SMB,Starter,Consulting,Germany,Neustadt am Rübenberge,Benita,Schleich,benita.schleich@rennerweinholdstiftu.com,+49(0) 467065627,2025-07-12
+CUST-0215,"Gonzales, Huber and Morgan",SMB,Starter,E-commerce,US,Sandrahaven,Jacob,Holt,jacob.holt@gonzaleshuberandmorg.com,716-616-9284x511,2025-12-13
+CUST-0216,Neveu,SMB,Starter,Education,France,Peron,HonorÃ©,Gay,honoré.gay@neveu.com,0699769453,2024-07-08
+CUST-0217,Griffin-Robbins,SMB,Starter,E-commerce,US,Williamsstad,Garrett,Wallace,garrett.wallace@griffinrobbins.com,+1-964-201-6582x029,2024-03-11
+CUST-0218,Jones Ltd,SMB,Starter,Software,US,New Ericmouth,Michael,Reyes,michael.reyes@jones.com,(357)219-2856x543,2025-12-16
+CUST-0219,"Lopez, Holmes and Mcintyre",SMB,Starter,Logistics,US,Lewisport,David,Hampton,david..hampton@lopezholmesandmcinty.com,001-373-612-1727x155,2025-06-18
+CUST-0220,Scholtz KG,SMB,Starter,Healthcare,Germany,Borken,Andrey,Kreusel,aNdReY.KrEuSeL@ScHoLtZkG.CoM,(06272) 04653,2024-11-27
+CUST-0221,"Cook, Baker and Fuller",SMB,Starter,Software,UK,Heathermouth,Kenneth,Williams,kenneth.williams@cookbakerandfuller.com,01632 960262,2024-06-10
+CUST-0222,York-Joseph,SMB,Starter,Software,US,Williamville,Sara,Little,sara.little@yorkjoseph.com  ,923.470.5895,2024-03-24
+CUST-0223,"Henson, Jones and Sanders",SMB,Starter,Retail,US,Hammondshire,Jennifer,Mendoza,jennifer.mendoza@hensonjonesandsander.com,425-417-7852,2025-04-13
+CUST-0224,"Bishop, Brooks and Richards",SMB,Starter,Energy,UK,Williamsshire,Shannon,Russell,  shannon.russell@bishopbrooksandricha.com,+441184960531,2025-10-07
+CUST-0225,Shaw-Oneill,SMB,Starter,Media,US,Fredmouth,Marie,Holmes,marie.holmes@shawoneill.com,001-335-484-1438x424,2025-02-24
+CUST-0226,Junken Kallert e.G.,SMB,Starter,Education,Germany,Worbis,Radmila,Kramer,radmila.kramer@junkenkallerteg.com,0417080531,2025-04-26
+CUST-0227,Wallace-Smith,SMB,Starter,Media,UK,Holtfort,Gillian,Pearce,gillian.pearce@wallacesmith.com,0909 8790527,2025-03-03
+CUST-0228,Evans LLC,SMB,Starter,Consulting,UK,Suzannetown,Maurice,White,maurice.white@evansllc.com,0191 498 0313,2025-01-17
+CUST-0229,"David, Moore and Hopkins",SMB,Starter,,US,Port Michelleland,Jennifer,Jacobs,jEnNiFeR.JaCoBs@dAvIdMoOrEaNdHoPkInS.CoM,6946396907,2024-11-21
+CUST-0230,"Stevenson, Duffy and Smith",SMB,Starter,Media,UK,Parkintown,Alice,Berry,  alice.berry@stevensonduffyandsmi.com,,2025-11-24
+CUST-0231,"Smith, Adams and Connolly",SMB,Starter,Software,UK,Turnerside,Andrea,Hill,andrea.hill@smithadamsandconnoll.com,0131 496 0574,2024-08-22
+CUST-0232,Sanchez-Aguirre,SMB,Starter,Media,US,East Scottfort,Richard,Chavez,richard.chavez@sanchezaguirre.com,335.792.5556x258,2025-12-07
+CUST-0233,Benthin,SMB,Starter,Retail,Germany,Finsterwalde,Katharina,Becker,katharina.becker@benthin.com,,2025-02-11
+CUST-0234,Geisel auch Schlauchin KG,SMB,Starter,Media,Germany,Eberswalde,Walburga,Weinhold,walburga.weinhold@geiselauchschlauchin.com,+49(0)1904 96631,2024-08-20
+CUST-0235,Stumpf,SMB,Starter,Media,Germany,Burglengenfeld,Marjan,Schottin,marjan.schottin@stumpf.com,+49(0)9190 58651,2025-02-27
+CUST-0236,Owens LLC,SMB,Starter,FinTech,US,West Soniachester,Shannon,Thomas,shannon.thomas@owensllc.com,925.995.3278,2025-05-16
+CUST-0237,Jimenez-Davis,SMB,Starter,E-commerce,US,East Brandy,Phillip,Bryant,phillip.bryant@jimenezdavis.com,3048797480,2024-07-13
+CUST-0238,Khan Ltd,SMB,Starter,Manufacturing,US,South Brettside,Michael,Powell,michael.powell@khan.com,658.341.6878,2024-02-03
+CUST-0239,Smith-O'Neill,SMB,Starter,Consulting,UK,East Robin,Alex,Saunders,alex.saunders@smithoneill.com,+44(0)1632 960 749,2025-12-23
+CUST-0240,"Anderson, Robinson and Lee",SMB,Starter,Logistics,UK,West Stephen,Bryan,Wilson,bryan.wilson@andersonrobinsonandl.com,01632 960824,2024-03-14
+CUST-0241,Hester Group,SMB,Starter,Consulting,US,Kariborough,Nathaniel,Hatfield,nathaniel.hatfield@hestergroup.com,+1-486-480-0025x787,22-05-2024
+CUST-0242,Simpson PLC,SMB,Starter,Media,UK,Lake Abigail,Iain,Harrison,iain.harrison@simpsonplc.com,01154960094,2025-03-09
+CUST-0243,Jones-Cook,SMB,Starter,Retail,UK,Clarkland,Lee,Smith,lee.smith@jonescook.com,+44141 496 0719,2024-05-30
+CUST-0244,Velazquez-Flores,SMB,Starter,Energy,US,Brittneyhaven,Phillip,Jensen,phillip.jensen@velazquezflores.com,987.694.7055x16940,2024-01-29
+CUST-0245,"Patton, Parsons and Lane",SMB,Starter,Real Estate,US,New Cristina,Jennifer,Silva,jennifer.silva@pattonparsonsandlane.com,+1-462-830-9130x756,2024-07-05
+CUST-0246,Seifert,SMB,Starter,Education,Germany,Neustadtner Waldnaab,Mirco,Aumann,mirco.aumann@seifert.com,+49(0)6572 628498,2024-06-30
+CUST-0247,Mohaupt Mälzer Stiftung & Co. KGaA,SMB,Starter,Healthcare,Germany,Goslar,Deborah,Heuser,deborah.heuser@mohauptmälzerstiftun.com,+49(0)4737 996507,09/09/2024
+CUST-0248,"Holmes, Hayes and Barker",SMB,Starter,Healthcare,UK,North Nicole,Leon,Cunningham,leon.cunningham@holmeshayesandbarker.com,(0306) 999 0699,2025-11-23
+CUST-0249,"Wilson, Bishop and Price",SMB,Starter,Media,UK,Rogerston,Angela,Jordan,angela.jordan@wilsonbishopandprice.com,028 9018 0133,2025-08-31
+CUST-0250,"Harris, Shaw and Carr",SMB,Starter,Energy,US,Lake Devinborough,Thomas,Charles,thomas.charles@harrisshawandcarr.com,+1-757-786-5278,2025-01-01
+CUST-0251,"Ingram, Le and Schneider",SMB,Starter,Retail,US,East Joshua,Heather,Bishop,heather.bishop@ingramleandschneider.com,834-843-7575x8441,2024-04-27
+CUST-0252,Blevins-Ballard,SMB,Starter,Manufacturing,US,West Sandraview,Kelly,Roberts,kelly.roberts@blevinsballard.com,001-573-238-4842x1993,2025-10-12
+CUST-0253,"Stein, Perez and Hall",SMB,Starter,E-commerce,US,Garciaberg,Craig,Rivera,craig.rivera@steinperezandhall.com,,2025-03-29
+CUST-0254,Gnatz Neuschäfer AG & Co. OHG,SMB,Starter,Media,Germany,Göttingen,Norbert,Heser,norbert.heser@gnatzneuschäferagcoo.com,(04808) 313678,04/22/2025
+CUST-0255,Pearson and Sons,SMB,Starter,FinTech,US,East Robertburgh,Amanda,Sharp,amanda.sharp@pearsonandsons.com,3677240049,2025-05-17
+CUST-0256,Gibson-Davidson,SMB,Starter,FinTech,US,Port William,Alice,Small,alice.small@gibsondavidson.com,531-452-7420x549,2025-05-13
+CUST-0257,Stumpf GmbH & Co. KGaA,SMB,Starter,Logistics,Germany,Melsungen,Freia,Trub,freia.trub@stumpfcokgaa.com,+49(0)1436349578,2024-10-14
+CUST-0258,Kaul,SMB,Starter,Education,Germany,Jessen,Simon,Weinhage,simon.weinhage@kaul.com,04443 135182,2024-12-14
+CUST-0259,"Chase, Prince and Wilcox",SMB,Starter,Education,US,East Tinafort,Zachary,Miller,zachary.miller@chaseprinceandwilcox.com,730-546-3745x49904,2025-07-13
+CUST-0260,Benson-Fraser,SMB,Starter,Real Estate,UK,North Michelle,Kyle,Fisher,kyle.fisher@bensonfraser.com,+44151 4960974,2024-11-01
+CUST-0261,Contreras Group,SMB,Starter,Logistics,US,Hannahport,Kurt,Sullivan,kurt.sullivan@contrerasgroup.com,(993)532-7279x568,2025-05-06
+CUST-0262,Lopes S.A.R.L.,SMB,Starter,Retail,France,Colasnec,Patrick,Hamel,patrick.hamel@lopes.com,0155752735,06-04-2025
+CUST-0263,Leblanc,SMB,Starter,Energy,France,Berthelot,Roger,Godard,roger.godard@leblanc.com,+33 (0)3 51 13 67 83,2024-12-25
+CUST-0264,Becker PLC,SMB,Starter,Manufacturing,US,Ricestad,Morgan,Miller,morgan.miller@beckerplc.com,491-408-8398,2025-09-06
+CUST-0265,Barnes Ltd,SMB,Starter,Logistics,UK,Hammondbury,Lawrence,Campbell,lawrence.campbell@barnes.com,+44118 4960936,2024-07-13
+CUST-0266,Bond-Ramos,SMB,Starter,Education,US,Davishaven,Erin,Love,erin.love@bondramos.com,207.828.6790x874,2025-06-24
+CUST-0267,Velasquez-Reese,SMB,Starter,Real Estate,US,Isabellaside,Beth,Williams,beth..williams@velasquezreese.com,7178046226,2024-05-22
+CUST-0268,Dunn Ltd,SMB,Starter,FinTech,UK,North Darren,Kieran,Walker,kieran.walker@dunn.com,+44116 496 0499,2025-07-16
+CUST-0269,Kane-Knox,SMB,Starter,Education,US,Lake Michelle,Nicholas,Vega,nicholas.vega@kaneknox.com,628-968-2300,2025-05-22
+CUST-0270,"Ball, Coleman and Gray",SMB,Starter,Manufacturing,US,West Jacob,Jerry,Murray,jerry.murray@ballcolemanandgray.com,001-210-569-0331x1907,2025-12-29
+CUST-0271,Williams-Jones,SMB,Starter,Retail,UK,Donnaside,Leon,Harrison,leon.harrison@williamsjones.com,+44161 496 0719,2024-09-15 00:00:00
+CUST-0272,Hande Stiftung & Co. KGaA,SMB,Starter,Consulting,Germany,Burgdorf,Yusuf,Hofmann,yusuf.hofmann@handestiftungcokgaa.com,+49(0) 435240824,2024-05-20
+CUST-0273,Ball Ltd,SMB,Starter,Real Estate,UK,North Bernardshire,Brandon,Butler,brandon.butler@ball.com,+4420 7496 0049,2024-04-24
+CUST-0274,Miller and Sons,SMB,Starter,Consulting,UK,Chadwickburgh,Pauline,Reynolds,pauline.reynolds@millerandsons.com,(020)74960671,2024-11-17
+CUST-0275,Imbert,SMB,Starter,Energy,France,DurandBourg,Michèle,Marin,michèle.marin@imbert.com,0367634957,2024-10-12
+CUST-0276,"Williams, Gonzales and Fernandez",SMB,Starter,E-commerce,US,New Victoria,Karen,Parsons,karen.parsons@williamsgonzalesandf.com,595.899.5342,2025-10-18
+CUST-0277,Hill-Hawkins,SMB,Starter,Manufacturing,US,Lake Erika,Brittany,Moss,brittany.moss@hillhawkins.com,+1-470-656-8566,2025-07-15
+CUST-0278,Lamy,SMB,Starter,Logistics,France,Benard,Noémi,Dias,noémi.dias@lamy.com,04 22 44 31 35,2025-10-04
+CUST-0279,White-Medina,SMB,Starter,E-commerce,US,Port Steven,John,Perez,john.perez@whitemedina.com,6865688263,2024-12-25
+CUST-0280,Godfrey-Ross,SMB,Starter,Retail,UK,West Victoria,Vanessa,Webb,vanessa.webb@godfreyross.com,+44(0)29 2018 0746,2024-07-04
+CUST-0281,Lucas-Nielsen,SMB,Starter,Energy,US,North Joseph,Melanie,Davis,mElAnIe.dAvIs@lUcAsNiElSeN.CoM,+1-599-501-3983x73540,2025-03-20
+CUST-0282,"Sims, Nicholson and Smith",SMB,Starter,Software,UK,Taylortown,Connor,Morgan,connor.morgan@simsnicholsonandsmit.com,029 2018 0876,2024-08-07
+CUST-0283,"Wilson, Key and Mendoza",SMB,Starter,Education,US,South Rose,John,Munoz,john.munoz@wilsonkeyandmendoza.com,+1-754-967-8544,2025-03-03
+CUST-0284,Garcia-Zavala,SMB,Starter,Retail,US,West Lawrence,Terrance,Franco,terrance.franco@garciazavala.com,8936204899,02-05-2025
+CUST-0285,Kay LLC,SMB,Starter,E-commerce,UK,Carterborough,Brenda,Davey,brenda.davey@kayllc.com,+441184960824,09/12/2024
+CUST-0286,Gonzalez and Sons,SMB,Starter,Energy,US,Piercemouth,Noah,Whitaker,noah.whitaker@gonzalezandsons.com,277-272-5228x728,2024-01-17
+CUST-0287,Landry Ltd,SMB,Starter,Consulting,US,Port Crystal,Brandon,Smith,brandon.smith@landry.com,920-938-7509,2025-09-20
+CUST-0288,Wallace-Jones,SMB,Starter,Software,UK,Lake Sam,Matthew,Simpson,matthew.simpson@wallacejones.com,+44121 4960808,2024-12-15
+CUST-0289,Smith PLC,SMB,Starter,Consulting,US,Amandaport,Robert,Smith,robert.smith@smithplc.com,5866211823,2025-09-16
+CUST-0290,Adams-Sanders,SMB,Starter,FinTech,US,Lake Jeremiah,Nathan,Sullivan,nathan.sullivan@adamssanders.com,+1-810-716-6687x00217,2024-02-21
+CUST-0291,"Madden, Dickson and Jacobson",SMB,Starter,Real Estate,US,Nelsonland,Samantha,Hall,samantha.hall@maddendicksonandjaco.com,+1-448-590-2503x92614,2024-07-02
+CUST-0292,Green-Chambers,SMB,Starter,Consulting,UK,Lake Carlfort,Geoffrey,Hall,geoffrey.hall@greenchambers.com,(01632) 960 484,2025-08-03
+CUST-0293,Lee-Robinson,SMB,Starter,Manufacturing,UK,South Karl,Norman,Murphy,norman.murphy@leerobinson.com,+44(0)20 7496 0821,2025-02-02
+CUST-0294,"Davenport, Price and Mosley",SMB,Starter,Education,US,Port Vanessa,Martin,Campos,martin.campos@davenportpriceandmos.com,001-818-750-1631x5999,2024-03-28
+CUST-0295,Walters Group,SMB,Starter,Retail,US,Reynoldsshire,Tracy,Kelly,tracy.kelly@waltersgroup.com,+1-761-394-3114x26265,04-10-2025
+CUST-0296,Smith LLC,SMB,Starter,Real Estate,US,East Christopherchester,Sean,Juarez,sean.juarez@smithllc.com,788.886.1015x819,02/17/2024
+CUST-0297,Bloch KG,SMB,Starter,Media,Germany,Soest,Klaus-Günter,Thanel,klaus-günter.thanel@blochkg.com,01094 777520,2024-12-04
+CUST-0298,Clements-Davis,SMB,Starter,Manufacturing,UK,Paulport,Maurice,McDonald,maurice.mcdonald@clementsdavis.com,(01632)960499,2025-07-04
+CUST-0299,Carter Group,SMB,Starter,Retail,US,New Adriana,Kimberly,Hardy,kimberly.hardy@cartergroup.com,+1-662-924-4472x12646,2025-07-01
+CUST-0300,Bernier S.A.S.,SMB,Starter,Software,France,Olivier,Paulette,Blot,paulette.blot@berniersas.com,+33 6 99 49 89 41,2024-12-12
+CUST-0301,Ward and Sons,SMB,Starter,Manufacturing,US,South Daniel,Jennifer,Simpson,jennifer.simpson@wardandsons.com,706-559-6575x6924,2024-07-12
+CUST-0302,Collet Dumas SARL,SMB,Starter,E-commerce,France,Saint Robert,Joseph,Hernandez,joseph.hernandez@colletdumas.com,+33 (0)1 78 84 27 10,2024-06-15
+CUST-0303,Müller Drewes AG,SMB,Starter,Manufacturing,Germany,Roding,Rolf,Noack,rolf.noack@müllerdrewesag.com,(00229) 41318,2025-05-09
+CUST-0304,Edwards-Oconnell,SMB,Starter,Software,US,Faulknerbury,Tanya,Carter,tanya.carter@edwardsoconnell.com,564-965-1939x82807,2025-09-06
+CUST-0305,"Jones, Bray and Powell",SMB,Starter,Retail,UK,Murphymouth,Leigh,Ross,leigh.ross@jonesbrayandpowell.com,+44909 879 0339,2024-09-27
+CUST-0306,Guerra-Jones,SMB,Starter,Retail,US,Taylorport,Melanie,Pope,melanie.pope@guerrajones.com,842.866.1797,2025-11-24
+CUST-0307,Barnes-Russell,SMB,Starter,Healthcare,UK,Colefurt,Samuel,Stephens,samuel.stephens@barnesrussell.com,01414960270,2024-11-25
+CUST-0308,Kerr PLC,SMB,Starter,Real Estate,UK,Spencermouth,Mohamed,Taylor,mohamed.taylor@kerrplc.com,(0113) 496 0262,2024-02-16
+CUST-0309,auch Schlauchin Schenk e.V.,SMB,Starter,FinTech,Germany,Meppen,Elli,Hecker,elli.hecker@auchschlauchinschenk.com,04964 990913,2025-08-14
+CUST-0310,"Johnson, Schmitt and Miles",SMB,Starter,Energy,US,North Kaylastad,Lisa,Wheeler,  lisa.wheeler@johnsonschmittandmil.com,(390)696-5610,2025-12-26
+CUST-0311,Dixon PLC,SMB,Starter,Software,US,South Neil,Angela,Watts,angela.watts@dixonplc.com,498.725.0714x611,2025-10-11
+CUST-0312,Jones LLC,SMB,Starter,FinTech,UK,Brooksmouth,Declan,Johnson,declan.johnson@jonesllc.com,09098790865,2025-09-16
+CUST-0313,LeliÃ¨vre,SMB,Starter,Consulting,France,Gonzalez,Christiane,Besnard,christiane.besnard@lelièvre.com,+33 (0)3 86 71 16 71,2024-07-13
+CUST-0314,"Edwards, Carter and Carr",SMB,Starter,Retail,UK,Lake Lydia,Alan,Richards,alan.richards@edwardscarterandcarr.com,0121 4960316,2025-05-10
+CUST-0315,Hahn,SMB,Starter,Retail,Germany,Ebermannstadt,Josef,Speer,josef.speer@hahn.com,,2024-02-19 00:00:00
+CUST-0316,Cooper-Mueller,SMB,Starter,Retail,US,South Jennifermouth,Adriana,Bailey,adriana..bailey@coopermueller.com,714-801-0512x38282,2024-04-21
+CUST-0317,Hall-Sullivan,SMB,Starter,Logistics,US,Fosterborough,Jack,Davidson,jack.davidson@hallsullivan.com,496.760.3341x918,2024-10-17
+CUST-0318,Gonzalez-Wilson,SMB,Starter,Consulting,US,Candicefurt,Emily,Burns,emily.burns@gonzalezwilson.com,001-315-457-9249,2025-03-05
+CUST-0319,Carter Ltd,SMB,Starter,Energy,UK,Matthewton,Oliver,Williams,oliver.williams@carter.com,+44(0)1214960045,2025-07-26
+CUST-0320,Fernandes S.A.,SMB,Starter,FinTech,France,Clément,Suzanne,Thibault,suzanne.thibault@fernandessa.com,+33 2 50 86 99 93,2025-10-06
+CUST-0321,Crawford-Smith,SMB,Starter,FinTech,UK,East Clive,Victoria,Armstrong,victoria.armstrong@crawfordsmith.com,+441144960969,2025-11-04
+CUST-0322,Wilson-Torres,SMB,Starter,Consulting,US,Barnesberg,Isaac,Steele,isaac.steele@wilsontorres.com,001-966-627-8282,2024-01-16
+CUST-0323,"Smith, Walker and Wilkins",SMB,Starter,FinTech,UK,Smithtown,Bethany,Dawson,bethany.dawson@smithwalkerandwilkin.com,0808 1570748,2025-02-28
+CUST-0324,Lopez Group,SMB,Starter,Manufacturing,US,South Derrickfurt,Christine,Glenn,christine.glenn@lopezgroup.com,+1-387-267-6772,2024-05-06
+CUST-0325,Beckmann Heinrich GmbH,SMB,Starter,Healthcare,Germany,Bernburg,Ilse,Holzapfel,ilse.holzapfel@beckmannheinrich.com,(03493) 61832,2024-02-26
+CUST-0326,Carter LLC,SMB,Starter,E-commerce,US,Cunninghamfort,Jeffrey,Roberts,jeffrey.roberts@carterllc.com,+1-281-991-4858,2024-11-21
+CUST-0327,"Robinson, Coleman and Fitzgerald",SMB,Starter,Real Estate,US,South Joseland,Desiree,Wright,desiree.wright@robinsoncolemanandfi.com,513.239.5962x923,2025-06-16
+CUST-0328,"Bell, Campbell and Ryan",SMB,Starter,Education,US,Ashleyhaven,Mario,Padilla,mario.padilla@bellcampbellandryan.com,+1-412-660-4223x25367,2024-11-05 00:00:00
+CUST-0329,"Perry, Hayes and Schultz",SMB,Starter,Logistics,US,Heatherstad,Nicole,Davis,nicole.davis@perryhayesandschultz.com,875.590.1751x863,2024-11-28
+CUST-0330,Adams-Clayton,SMB,Starter,Real Estate,US,Kramerton,Matthew,Lane,matthew.lane@adamsclayton.com,8175012770,2024-10-26 00:00:00
+CUST-0331,Faust Boucsein AG,SMB,Starter,Healthcare,Germany,Sangerhausen,Guenther,Zorbach,guenther.zorbach@faustboucseinag.com,(04717) 464887,2025-07-06
+CUST-0332,"Blankenship, Khan and Turner",SMB,Starter,Manufacturing,US,Lake Michaelland,Nancy,Mcdowell,nancy.mcdowell@blankenshipkhanandtu.com,(320)464-3611x037,2025-08-23
+CUST-0333,"Perez, Frazier and Smith",SMB,Starter,Consulting,US,Bensonfort,Heather,Montoya,heather.montoya@perezfrazierandsmith.com,436-811-1554,2025-05-31
+CUST-0334,May Ltd,SMB,Starter,Real Estate,US,New Debramouth,Douglas,Moreno,douglas.moreno@may.com,(832)769-7311x219,2025-03-10
+CUST-0335,Edwards-Taylor,SMB,Starter,Real Estate,US,Kimberlytown,Joshua,Miller,joshua.miller@edwardstaylor.com,+1-543-989-8364x03761,2024-08-04
+CUST-0336,Ford LLC,SMB,Starter,Consulting,UK,Marshallmouth,Kate,Burns,kate.burns@fordllc.com,0909 879 0436,2025-10-13
+CUST-0337,Butte Scheuermann AG,Mid-Market,Growth,Media,Germany,Schleiz,Rita,Löwer,rita.löwer@buttescheuermannag.com,+49(0)0139 90490,2025-10-26
+CUST-0338,Möchlichen GmbH & Co. OHG,Mid-Market,Growth,Consulting,Germany,Eisleben,Gabriella,Margraf,gabriella.margraf@möchlichencoohg.com,(06717) 565512,2024-08-11
+CUST-0339,Dean-Palmer,Mid-Market,Growth,Consulting,UK,Danielfurt,Sarah,Allen,sarah.allen@deanpalmer.com,+44(0)118 4960090,2025-11-28
+CUST-0340,"Wheeler, Rice and Levine",Mid-Market,Growth,Real Estate,US,South Michelle,Valerie,Peck,vAlErIe.pEcK@WhEeLeRrIcEaNdLeViNe.cOm,001-365-282-7109,2025-03-03
+CUST-0341,Lewis-Livingston,Mid-Market,Growth,Media,US,Courtneyhaven,Stacy,Sanders,stacy.sanders@lewislivingston.com,001-566-461-8892x41418,2025-11-13
+CUST-0342,"Murphy, Willis and Hines",Mid-Market,Growth,Media,US,Hollybury,Debra,Day,debra.day@murphywillisandhines.com,6314617990,2024-06-01
+CUST-0343,"Morris, Lee and Cooke",Mid-Market,Growth,,UK,Geraldborough,Bernard,Jenkins,bernard.jenkins@morrisleeandcooke.com,0289018421,2024-04-18
+CUST-0344,"Willis, Herbert and Williams",Mid-Market,Growth,Logistics,UK,North Bryan,Rosemary,Hargreaves,rosemary.hargreaves@willisherbertandwill.com,+44(0)1214960623,2025-02-21
+CUST-0345,Fitzgerald LLC,Mid-Market,Growth,Manufacturing,UK,Rogerview,Melanie,Knight,melanie.knight@fitzgeraldllc.com,+44808 1570745,2025-01-05
+CUST-0346,Jones Inc,Mid-Market,Growth,Software,UK,Port Sian,Patrick,Mitchell,patrick.mitchell@jones.com,(01632)960685,2025-02-12
+CUST-0347,Smith and Sons,Mid-Market,Growth,Manufacturing,US,Alexandraview,Jacqueline,Martin,jacqueline.martin@smithandsons.com,(352)641-0564,2024-06-21
+CUST-0348,"Proctor, Burton and Crawford",Mid-Market,Growth,FinTech,US,West Eric,William,Brown,william.brown@proctorburtonandcraw.com,001-419-413-8000x30756,2024-10-02
+CUST-0349,Pearson Inc,Mid-Market,Growth,Education,UK,Connollyview,Arthur,Wilkinson,arthur.wilkinson@pearson.com,(020)74960651,2025-01-11
+CUST-0350,Tran Ltd,Mid-Market,Growth,Consulting,US,Johnmouth,Joy,Barnes,joy.barnes@tran.com,319-951-8023x806,2025-07-16
+CUST-0351,"Barnes, Jennings and Young",Mid-Market,Growth,,UK,Lake Philip,Chelsea,Mills,chelsea.mills@barnesjenningsandyou.com,+4428 9018 0746,2024-06-16
+CUST-0352,Lebreton,Mid-Market,Growth,Media,France,Gilbert-sur-Schneider,Capucine,Léger,capucine.léger@lebreton.com,+33 (0)2 38 33 41 23,2024-07-13
+CUST-0353,Courtois Sanchez S.A.,Mid-Market,Growth,Consulting,France,Lagardedan,Adrien,Lejeune,adrien.lejeune@courtoissanchezsa.com,0158344713,2025-05-01
+CUST-0354,Langern Täsche GmbH & Co. KGaA,Mid-Market,Growth,Logistics,Germany,Zeulenroda,Kevin,Spieß,kevin.spieß@langerntäschecokgaa.com,00715 45168,2025-07-19
+CUST-0355,Davidson Inc,Mid-Market,Growth,Education,UK,North Damianside,Leon,Turner,lEoN.TuRnEr@dAvIdSoN.CoM,+44(0)115 4960675,2024-04-22
+CUST-0356,Ayala-Collins,Mid-Market,Growth,Software,US,Jamesshire,Christopher,Bryant,christopher.bryant@ayalacollins.com,293-575-9738x3206,2025-07-11
+CUST-0357,"Wells, Booth and Henderson",Mid-Market,Growth,Logistics,UK,South Abbie,Kate,Cox,kate.cox@wellsboothandhenders.com,,2024-06-16
+CUST-0358,Toussaint,Mid-Market,Growth,FinTech,France,Lamy,Jacqueline,Peltier,jacqueline.peltier@toussaint.com,+33 (0)3 69 24 21 02,2025-03-07
+CUST-0359,Rhodes-Middleton,Mid-Market,Growth,E-commerce,UK,Port Linda,Louise,Williams,louise.williams@rhodesmiddleton.com,0115 4960585,2025-03-31
+CUST-0360,"Reed, Franco and Wiley",Mid-Market,Growth,Energy,US,Sweeneyport,Stephanie,Smith,stephanie.smith@reedfrancoandwiley.com,338-236-7024,2025-09-19 00:00:00
+CUST-0361,Matthews and Sons,Mid-Market,Growth,Media,UK,Greenborough,Adrian,Wells,adrian.wells@matthewsandsons.com,+44289018900,2024-06-21
+CUST-0362,Smith-Harvey,Mid-Market,Growth,Consulting,UK,New Robin,Anna,Martin,anna.martin@smithharvey.com,,2025-12-25
+CUST-0363,Merritt PLC,Mid-Market,Growth,Logistics,US,Villegasland,Robert,Huang,robert.huang@merrittplc.com,001-818-426-1990,2024-07-26
+CUST-0364,Valentin,Mid-Market,Growth,Retail,France,Navarro,Océane,Colas,océane.colas@valentin.com,+33 (0)6 38 46 48 87,2025-01-08
+CUST-0365,"Harper, Taylor and Daly",Mid-Market,Growth,Logistics,UK,North Irene,Callum,Henderson,callum.henderson@harpertayloranddaly.com,(0909)8790020,05-04-2025
+CUST-0366,Sontag KG,Mid-Market,Growth,Software,Germany,Erfurt,Vincent,Lehmann,vincent.lehmann@sontagkg.com,05977 03482,2024-02-12 00:00:00
+CUST-0367,Mangold Thanel GmbH & Co. KGaA,Mid-Market,Growth,Real Estate,Germany,Wanzleben,Erwin,Baum,erwin.baum@mangoldthanelcokgaa.com,,2025-02-25
+CUST-0368,Carter LLC,Mid-Market,Growth,Logistics,US,Louisview,Sara,Long,sara.long@carterllc.com,913.929.1212,2025-10-16
+CUST-0369,Russell-Herrera,Mid-Market,Growth,Real Estate,US,Stevenville,Tami,Clark,tami.clark@russellherrera.com  ,524-790-3521,2025-01-18 00:00:00
+CUST-0370,Palmer-Byrd,Mid-Market,Growth,Manufacturing,US,South Melissaside,Jorge,Ewing,jorge.ewing@palmerbyrd.com,001-883-717-1210x0323,2025-02-27 00:00:00
+CUST-0371,Fliegner,Mid-Market,Growth,Real Estate,Germany,Olpe,Alexa,Trubin,alexa.trubin@fliegner.com,+49(0)6773 78263,2025-08-07
+CUST-0372,Faure,Mid-Market,Growth,Consulting,France,Guyonboeuf,Joséphine,Fournier,joséphine.fournier@faure.com,0153139904,2025-06-21
+CUST-0373,Ledoux S.A.,Mid-Market,Growth,Logistics,France,Lopes-les-Bains,Charlotte,Paul,charlotte.paul@ledouxsa.com,07 61 75 65 51,2025-08-02
+CUST-0374,"Mccoy, Newman and Aguilar",Mid-Market,Growth,Real Estate,US,North Jamesmouth,Jonathan,Hess,jonathan.hess@mccoynewmanandaguila.com  ,(815)810-7029,2024-05-13
+CUST-0375,Johnson-Vega,Mid-Market,Growth,Logistics,US,West Joshua,Gerald,Lewis,gerald.lewis@johnsonvega.com,(909)299-3476,2024-10-15
+CUST-0376,Ramirez and Sons,Mid-Market,Growth,Real Estate,US,Lake Virginia,Robert,Day,robert.day@ramirezandsons.com,+1-706-857-8759,2024-04-22
+CUST-0377,Pechel,Mid-Market,Growth,Retail,Germany,Göppingen,Justina,Ernst,justina.ernst@pechel.com,0584044997,2024-11-25
+CUST-0378,White-Flores,Mid-Market,Growth,Energy,US,Brianfort,Jeffery,Huang,jeffery.huang@whiteflores.com,759.432.1334x80396,2025-01-14
+CUST-0379,Boulanger Bouchet et Fils,Mid-Market,Growth,Manufacturing,France,SamsonVille,Clémence,Hervé,clémence.hervé@boulangerbouchetetfi.com,02 33 54 51 68,2025-08-20
+CUST-0380,Pearson-Smith,Mid-Market,Growth,Real Estate,UK,Leeberg,Brandon,Brown,brandon.brown@pearsonsmith.com,+44(0)1632 960 681,2025-09-08
+CUST-0381,Matthäi KG,Mid-Market,Growth,E-commerce,Germany,Querfurt,Yusuf,Kaul,yusuf.kaul@matthäikg.com,06753 39636,2025-12-10
+CUST-0382,Junck Stiftung & Co. KGaA,Mid-Market,Growth,Energy,Germany,Kusel,Wilfried,Trapp,wilfried.trapp@junckstiftungcokgaa.com,(02702) 89517,2024-07-13
+CUST-0383,Descamps S.A.S.,Mid-Market,Growth,Education,France,Saint Diane,Célina,Pasquier,célina.pasquier@descampssas.com,0807034824,2025-11-15
+CUST-0384,Young LLC,Mid-Market,Growth,Real Estate,US,Lake Jackieshire,Linda,Wolfe,linda.wolfe@youngllc.com,001-229-337-8427,2024-01-04
+CUST-0385,"Collins, Parkin and Evans",Mid-Market,Growth,Logistics,UK,New Samuel,Jenna,Griffiths,jenna.griffiths@collinsparkinandevan.com,+441632 960 847,2025-06-16
+CUST-0386,Hall and Sons,Mid-Market,Growth,Manufacturing,US,Samanthaborough,Andrew,Woods,andrew.woods@hallandsons.com,(352)750-0292,2025-10-13
+CUST-0387,Brooks Ltd,Mid-Market,Growth,Healthcare,US,Marcusburgh,Randall,Garcia,randall.garcia@brooks.com,001-667-452-8953x9264,2024-03-25
+CUST-0388,Daniel Ltd,Mid-Market,Growth,Media,US,East Carriebury,Stacy,Myers,stacy.myers@daniel.com,+1-991-272-5135x5215,2025-10-25
+CUST-0389,Clark-Steele,Mid-Market,Growth,E-commerce,US,North Paulchester,Michael,Buchanan,michael.buchanan@clarksteele.com,(567)465-8617,2024-09-30
+CUST-0390,Jones-Singleton,Mid-Market,Growth,Manufacturing,US,North Matthewfurt,Kenneth,Flores,kenneth.flores@jonessingleton.com,(818)415-9970,2024-08-20
+CUST-0391,Putz GmbH & Co. KG,Mid-Market,Growth,FinTech,Germany,Ludwigslust,Alexandros,Ullmann,alexandros.ullmann@putzcokg.com,(02174) 59615,2024-01-14
+CUST-0392,"Robson, Long and Jones",Mid-Market,Growth,Education,UK,South Louiseland,Joanne,Pickering,joanne.pickering@robsonlongandjones.com,+441144960592,2025-02-02
+CUST-0393,Reinhardt,Mid-Market,Growth,Education,Germany,Potsdam,Raimund,Junck,raimund.junck@reinhardt.com,+49(0)9134316117,2025-04-30
+CUST-0394,"Preston, Moore and Garcia",Mid-Market,Growth,Logistics,US,Donnaport,Jamie,Lee,jamie.lee@prestonmooreandgarci.com,710.269.8720,2025-05-19
+CUST-0395,Rocher,Mid-Market,Growth,Consulting,France,Saint Mathilde,Claire,Rivière,claire.rivière@rocher.com,+33 4 68 80 86 13,08/24/2024
+CUST-0396,Miller-Colon,Mid-Market,Growth,Retail,US,North Jamieport,Colleen,Castillo,colleen.castillo@millercolon.com,871-446-7741,2025-10-07
+CUST-0397,Mcclure-Wood,Mid-Market,Growth,E-commerce,US,Bakerview,Sean,Baker,sean.baker@mcclurewood.com,001-502-211-5869,2025-09-15
+CUST-0398,Täsche GmbH,Mid-Market,Growth,Consulting,Germany,Hildesheim,Sandy,Baum,sandy.baum@täsche.com,,2024-01-15
+CUST-0399,Gertz AG,Mid-Market,Growth,E-commerce,Germany,Nordhausen,Ekaterina,Kranz,ekaterina.kranz@gertzag.com,(02374) 740748,2025-02-09
+CUST-0400,Briemer GmbH & Co. KG,Mid-Market,Growth,Software,Germany,Soltau,Traude,Kaul,traude.kaul@briemercokg.com,0474367136,2024-10-21
+CUST-0401,Clarke PLC,Mid-Market,Growth,Real Estate,UK,Margarethaven,Ashleigh,Grant,ashleigh.grant@clarkeplc.com,(0121) 496 0789,2025-07-13
+CUST-0402,Klemt,Mid-Market,Growth,Media,Germany,Aschaffenburg,Christin,Hübel,christin.hübel@klemt.com,(06409) 09743,2024-09-06
+CUST-0403,Gibson-Harrison,Mid-Market,Growth,Energy,UK,South Alison,Abbie,Horton,abbie.horton@gibsonharrison.com,+44(0)9098790365,2025-12-23
+CUST-0404,Kitzmann,Mid-Market,Growth,Healthcare,Germany,Schweinfurt,Heinz-Otto,Schuster,heinz-otto.schuster@kitzmann.com,+49(0)2104 70952,2025-12-22
+CUST-0405,Matthews-Elliott,Mid-Market,Growth,Manufacturing,UK,Karenberg,Terry,Pugh,terry.pugh@matthewselliott.com,+4429 2018711,2025-11-06
+CUST-0406,Pinto SA,Mid-Market,Growth,Media,France,Auger-la-Forêt,Madeleine,Brunet,madeleine.brunet@pintosa.com,0558773782,11/14/2024
+CUST-0407,Aubert,Mid-Market,Growth,Healthcare,France,Muller,Joséphine,Grégoire,joséphine.grégoire@aubert.com,0558584044,2025-05-25 00:00:00
+CUST-0408,Cardenas-Barnes,Mid-Market,Growth,Consulting,US,Armstrongbury,Amanda,Camacho,amanda.camacho@cardenasbarnes.com,441.460.8989x9217,08/08/2025
+CUST-0409,Gérard,Mid-Market,Growth,Media,France,Barreboeuf,Caroline,Tanguy,caroline.tanguy@gérard.com,06 32 53 39 63,2025-01-21
+CUST-0410,Hübel GmbH,Mid-Market,Growth,Retail,Germany,Finsterwalde,Jutta,Liebelt,  jutta.liebelt@hübel.com,+49 (0) 8588 424745,2025-06-16
+CUST-0411,Green Inc,Mid-Market,Growth,Retail,UK,New Chelseaside,Christine,Barker,christine.barker@green.com,0131 496 0165,2024-10-30
+CUST-0412,Bertrand,Mid-Market,Growth,Healthcare,France,Munoznec,Timothée,Vallet,timothée.vallet@bertrand.com  ,02 85 70 28 95,2025-06-09
+CUST-0413,Mosemann AG,Mid-Market,Growth,E-commerce,Germany,Säckingen,Friedbert,Wende,friedbert.wende@mosemannag.com,(06851) 60481,05/22/2024
+CUST-0414,Besnard SA,Mid-Market,Growth,Software,France,Saint Anouk,Édith,Pineau,édith.pineau@besnardsa.com,+33 2 22 74 59 61,2024-01-14
+CUST-0415,"Singh, Davison and Chadwick",Mid-Market,Growth,Logistics,UK,Jayville,Lee,Morgan,lee.morgan@singhdavisonandchadw.com,(020) 7496 0832,2025-11-30
+CUST-0416,"Jones, Baker and Dodd",Mid-Market,Growth,,UK,Marionbury,Suzanne,Owen,suzanne.owen@jonesbakeranddodd.com,08081570689,2025-12-20
+CUST-0417,Koch Steinberg Stiftung & Co. KGaA,Mid-Market,Growth,Education,Germany,Soest,Gudrun,Hesse,gudrun.hesse@kochsteinbergstiftun.com,01370985931,2024-07-18
+CUST-0418,Parent,Mid-Market,Growth,Manufacturing,France,Toussaint,Élisabeth,Gillet,élisabeth.gillet@parent.com,01 64 91 34 31,2024-05-19
+CUST-0419,Stokes and Sons,Mid-Market,Growth,E-commerce,US,Harrisberg,Brad,Miller,brad.miller@stokesandsons.com,+1-945-211-6868x548,2024-03-06
+CUST-0420,"Dean, Mills and Barnes",Mid-Market,Growth,Education,US,North Annaville,Robert,Hernandez,robert.hernandez@deanmillsandbarnes.com,885-464-6799x7024,2025-11-14
+CUST-0421,"Franklin, Steele and Williams",Mid-Market,Growth,Retail,US,North Julie,Pamela,Rivera,pamela.rivera@franklinsteeleandwil.com,950-754-4471x324,2025-09-07
+CUST-0422,Daniel-Jacobs,Mid-Market,Growth,Healthcare,US,Figueroahaven,Christopher,Alexander,christopher.alexander@danieljacobs.com,(408)521-4862x890,2025-01-06
+CUST-0423,Mitschke,Mid-Market,Growth,Logistics,Germany,Stadtroda,Sibille,Thies,sibille.thies@mitschke.com  ,0120047113,2025-08-11 00:00:00
+CUST-0424,Perrin,Mid-Market,Growth,Retail,France,Sainte Jacques-la-Forêt,Patricia,Couturier,patricia.couturier@perrin.com,+33 (0)1 74 50 45 56,2025-08-20
+CUST-0425,Hood and Sons,Mid-Market,Growth,Education,US,Janetview,Antonio,Williams,antonio.williams@hoodandsons.com,(978)761-0357x972,2025-03-05
+CUST-0426,Martin-Kline,Mid-Market,Growth,Retail,US,Anthonyton,Kaitlyn,Barker,kaitlyn.barker@martinkline.com,(293)233-3468,2025-09-22
+CUST-0427,Moulin Laporte S.A.R.L.,Mid-Market,Growth,Logistics,France,Picard,Geneviève,Normand,geneviève.normand@moulinlaporte.com,+33 2 28 96 93 79,2025-09-29
+CUST-0428,Buck-Holland,Mid-Market,Growth,Logistics,US,Charleneport,Carolyn,Smith,carolyn.smith@buckholland.com,001-846-365-7437x489,2024-11-04
+CUST-0429,Grondin Pinto et Fils,Mid-Market,Growth,Energy,France,Martineau,Pierre,Jacques,pierre.jacques@grondinpintoetfils.com,+33 (0)6 37 48 21 75,2025-06-29
+CUST-0430,"Davies, Randall and John",Mid-Market,Growth,E-commerce,UK,Matthewburgh,Sylvia,Burke,sylvia.burke@daviesrandallandjohn.com,+44(0)118 496 0455,2024-12-05
+CUST-0431,Hunt Ltd,Mid-Market,Growth,Manufacturing,US,Kennethville,Tammy,Franco,tammy.franco@hunt.com,815.745.4443x2830,2025-09-17
+CUST-0432,Riou,Mid-Market,Growth,Media,France,Pineau,Audrey,Blot,audrey.blot@riou.com,0355671369,2025-11-07
+CUST-0433,Ernst,Mid-Market,Growth,E-commerce,Germany,Stuttgart,Reinald,Metz,reinald.metz@ernst.com,06926 17964,2024-10-06
+CUST-0434,Stumpf GmbH,Mid-Market,Growth,,Germany,Gera,Heinz-Günther,Martin,heinz-günther.martin@stumpf.com,01585064317,2024-08-27
+CUST-0435,Farrell and Sons,Mid-Market,Growth,Software,UK,East Ashleightown,Anna,Moss,anna.moss@farrellandsons.com,+44(0)1144960836,2024-08-02
+CUST-0436,Bruneau,Mid-Market,Growth,Software,France,Simon,Théodore,Bonnin,théodore.bonnin@bruneau.com,04 26 09 09 74,2025-11-23
+CUST-0437,"Taylor, Johnson and Jimenez",Mid-Market,Growth,E-commerce,US,Priceton,Kenneth,Meadows,kenneth.meadows@taylorjohnsonandjime.com,001-693-453-8758,18-07-2024
+CUST-0438,Price-Fraser,Mid-Market,Growth,Energy,UK,North Deanburgh,Graeme,Atkinson,graeme.atkinson@pricefraser.com,,2024-07-13
+CUST-0439,Williams-Douglas,Mid-Market,Growth,Retail,UK,Robinhaven,Lynda,Williams,lynda.williams@williamsdouglas.com,(0115)4960561,2024-12-08
+CUST-0440,"Walter, White and Davis",Mid-Market,Growth,Manufacturing,US,Lake Rachel,David,Green,david.green@walterwhiteanddavis.com,+1-313-953-4655x4947,2024-01-26
+CUST-0441,Delacruz PLC,Mid-Market,Growth,FinTech,US,Prestonhaven,Betty,Oliver,betty.oliver@delacruzplc.com,768-846-0223,2025-05-02
+CUST-0442,"Orozco, Hatfield and Thomas",Mid-Market,Growth,Retail,US,South Marvinburgh,Michelle,White,michelle.white@orozcohatfieldandtho.com,800-874-3292x71296,2024-07-20
+CUST-0443,Davies-Wright,Mid-Market,Growth,Consulting,UK,East Hannahton,Kerry,King,kerry.king@davieswright.com,0113 4960343,2025-10-05
+CUST-0444,Miller LLC,Mid-Market,Growth,FinTech,UK,Morrisburgh,Toby,O'Neill,toby.o'neill@millerllc.com,+44(0)115 496 0683,2024-12-13
+CUST-0445,SpieÃŸ AG & Co. OHG,Mid-Market,Growth,Media,Germany,Badibling,Florentine,Schwital,florentine.schwital@spießagcoohg.com,03293183933,2024-06-29
+CUST-0446,"Doherty, King and Nixon",Mid-Market,Growth,Software,UK,South Jackmouth,Patricia,Taylor,patricia.taylor@dohertykingandnixon.com,+44114 4960596,2025-06-05
+CUST-0447,"Ahmed, Hart and Harris",Enterprise,Enterprise,Consulting,UK,Ronaldmouth,Carol,Brown,  carol.brown@ahmedhartandharris.com,+448081570516,2024-09-30
+CUST-0448,Sanford-Reyes,Enterprise,Enterprise,E-commerce,US,Stephaniemouth,Benjamin,Gonzalez,benjamin.gonzalez@sanfordreyes.com,001-683-400-3354x21689,2025-11-30
+CUST-0449,Colon LLC,Enterprise,Enterprise,Software,US,Ryanberg,Stacy,Bryant,stacy.bryant@colonllc.com,475-332-6033x23098,2024-12-28
+CUST-0450,Smith PLC,Enterprise,Enterprise,Healthcare,UK,Taylormouth,Joanne,Barry,joanne.barry@smithplc.com,+441174960521,2025-06-13
+CUST-0451,"Parkinson, Hill and O'Connor",Enterprise,Enterprise,E-commerce,UK,East Timothy,Damien,Parsons,damien.parsons@parkinsonhillandocon.com,0116 4960432,2025-01-27
+CUST-0452,Wohlgemut Finke e.V.,Enterprise,Enterprise,FinTech,Germany,GÃ¶ppingen,Ruthild,Schenk,ruthild.schenk@wohlgemutfinkeev.com,+49 (0) 2842 102053,2025-11-25
+CUST-0453,"Gould, Carter and Tucker",Enterprise,Enterprise,Logistics,UK,Daviesshire,Teresa,Hughes,teresa.hughes@gouldcarterandtucker.com,+44289018955,2025-03-14
+CUST-0454,Dawson-Conner,Enterprise,Enterprise,Education,US,New Virginiaville,Nicholas,Bowman,nicholas.bowman@dawsonconner.com,+1-200-616-7618x4723,2025-05-03 00:00:00
+CUST-0455,Williams Group,Enterprise,Enterprise,Education,UK,Marieton,Angela,Mistry,angela.mistry@williamsgroup.com,+44131 496 0814,2024-01-08
+CUST-0456,Price-George,Enterprise,Enterprise,Retail,UK,New Marilynhaven,Mitchell,Hamilton,mitchell.hamilton@pricegeorge.com,01414960798,2024-03-05
+CUST-0457,Seguin Benard S.A.,Enterprise,Enterprise,Software,France,Deschamps-sur-Potier,Luce,Aubert,luce.aubert@seguinbenardsa.com,+33 2 37 04 70 95,2025-05-01
+CUST-0458,"Wheeler, Power and Barker",Enterprise,Enterprise,Logistics,UK,Knightton,Naomi,Kay,naomi.kay@wheelerpowerandbarke.com,+44151 4960151,05/29/2024
+CUST-0459,Stanley-Bates,Enterprise,Enterprise,Software,US,South Maria,Joseph,Obrien,joseph.obrien@stanleybates.com,589-614-1173,2025-08-12
+CUST-0460,"Dudley, Howard and Ortiz",Enterprise,Enterprise,FinTech,US,Lake Sarah,Ethan,Kelley,ethan.kelley@dudleyhowardandortiz.com,530-901-1972x18114,2024-01-28
+CUST-0461,Baker-Williams,Enterprise,Enterprise,Energy,US,Michaelmouth,Lisa,Sawyer,lisa.sawyer@bakerwilliams.com,(711)400-2255x79415,2025-08-29
+CUST-0462,Junitz,Enterprise,Enterprise,FinTech,Germany,Badoberan,Alexei,Gertz,alexei.gertz@junitz.com,,2024-10-10
+CUST-0463,Paffrath Hartung KG,Enterprise,Enterprise,Energy,Germany,Miltenberg,Axel,Vogt,axel.vogt@paffrathhartungkg.com,(00076) 61771,2025-10-17
+CUST-0464,Jungfer KG,Enterprise,Enterprise,E-commerce,Germany,Gunzenhausen,Geert,Bolzmann,geert.bolzmann@jungferkg.com,(09856) 984789,2024-01-24
+CUST-0465,Morales Group,Enterprise,Enterprise,Education,US,Marshburgh,Joseph,Cruz,joseph.cruz@moralesgroup.com,920-421-6979,2025-05-27
+CUST-0466,"James, Howard and Johnson",Enterprise,Enterprise,Real Estate,US,South Samantha,Gabrielle,Roberson,gabrielle.roberson@jameshowardandjohnso.com,567-701-4508,2024-12-23
+CUST-0467,"Mills, Haynes and Davis",Enterprise,Enterprise,Real Estate,US,Elizabethfurt,Dorothy,Wright,dorothy.wright@millshaynesanddavis.com,(489)300-2877,2025-12-16
+CUST-0468,"Willis, Thomas and Goddard",Enterprise,Enterprise,Energy,UK,West Christine,Jennifer,Barry,jennifer.barry@willisthomasandgodda.com  ,0121 496 0665,2024-03-05
+CUST-0469,"Anderson, Pearson and Miah",Enterprise,Enterprise,E-commerce,UK,Abbottberg,Gary,Sheppard,gary.sheppard@andersonpearsonandmi.com,0131 4960192,2025-07-12
+CUST-0470,Dippel Tintzmann AG,Enterprise,Enterprise,FinTech,Germany,Malchin,Monika,Sölzer,monika.sölzer@dippeltintzmannag.com,03657 661565,2025-10-04
+CUST-0471,Hermighausen,Enterprise,Enterprise,Media,Germany,Bergzabern,Petros,Fliegner,petros.fliegner@hermighausen.com,,2025-01-04
+CUST-0472,Flores-Rivera,Enterprise,Enterprise,Healthcare,US,Powellbury,Joshua,Hunter,joshua.hunter@floresrivera.com,377-997-1775,2024-05-20
+CUST-0473,"Valdez, Garcia and Gutierrez",Enterprise,Enterprise,Healthcare,US,Port Cassandraport,Angela,Smith,angela.smith@valdezgarciaandgutie.com,783.975.5037x58997,2025-05-06
+CUST-0474,Robin Collet SARL,Enterprise,Enterprise,Logistics,France,Bourgeois,Océane,Legros,océane.legros@robincollet.com,+33 4 97 88 42 47,2024-06-03
+CUST-0475,Letellier,Enterprise,Enterprise,Education,France,Sanchez-les-Bains,Yves,Noël,  yves.noël@letellier.com,+33 5 45 85 16 04,2025-08-22
+CUST-0476,Globex Corp,SMB,Starter,Retail,US,North Matthew,Daniel,Malone,daniel.malone@globex.com,+1-548-585-1027x2614,02/05/2024
+CUST-0477,GLOBEX CORP.,SMB,Starter,Education,US,South Makayla,David,Phelps,david.phelps@globex.com,451.960.9177,2025-04-06
+CUST-0478,globex corp,SMB,Starter,Media,US,Robersonfort,Adam,Fitzgerald,adam.fitzgerald@globex.com,529.622.1699x58669,2025-08-05
+CUST-0479,Globex Corporation,SMB,Starter,Manufacturing,US,Shawnberg,Raymond,Cooper,raymond.cooper@globexoration.com,(569)584-8583,2025-01-02
+CUST-0480,Globex Inc.,SMB,Starter,Software,US,Samanthaberg,Claudia,Roberts,claudia.roberts@globex.com,001-628-885-1587x996,2024-07-16
+CUST-0481,Initech Corp,SMB,Starter,Real Estate,US,South Dustinton,Lindsey,Mills,lindsey.mills@initech.com,242.744.2043,2024-03-12
+CUST-0482,INITECH CORP.,SMB,Starter,Healthcare,US,Lake Deborah,Lisa,Garcia,lisa.garcia@initech.com,(538)940-6665x8004,2025-07-19
+CUST-0483,initech corp,SMB,Starter,Manufacturing,US,Kariside,Maria,Pruitt,maria.pruitt@initech.com,001-293-834-7212x2816,2024-10-02
+CUST-0484,Initech Corporation,SMB,Starter,Logistics,US,New Meghan,Joshua,Baker,joshua.baker@initechoration.com,6579202590,2025-11-21
+CUST-0485,Initech Inc.,SMB,Starter,Software,US,Port Jasminehaven,Kristy,Pierce,kristy.pierce@initech.com,828.318.2688,2025-09-25
+CUST-0486,Soylent Corp,SMB,Starter,Real Estate,UK,Clarkeland,Bruce,Gordon,bruce.gordon@soylent.com,+44121 4960865,2025-04-03
+CUST-0487,SOYLENT CORP.,SMB,Starter,Logistics,UK,Lake Vanessachester,Scott,Davies,scott.davies@soylent.com,+44(0)161 4960505,2025-12-01
+CUST-0488,soylent corp,SMB,Starter,Manufacturing,UK,West Danielle,Dylan,Gardner,dylan.gardner@soylent.com,0117 4960322,2025-01-28
+CUST-0489,Soylent Corporation,SMB,Starter,FinTech,UK,New Sheilahaven,Martin,Doyle,martin.doyle@soylentoration.com,+44(0)113 496 0592,2025-12-28
+CUST-0490,Soylent Inc.,SMB,Starter,Logistics,UK,East Hazel,Jodie,Patel,jodie.patel@soylent.com,(0306)9990927,2025-09-27
+CUST-0491,Stark Industries Corp,Mid-Market,Growth,Retail,US,Markport,Michael,Ware,michael.ware@starkindustries.com,598.578.0157,2024-08-03
+CUST-0492,STARK INDUSTRIES CORP.,Mid-Market,Growth,Retail,US,Patrickville,Susan,Fleming,susan.fleming@starkindustries.com,(548)740-8588x7704,2025-12-28
+CUST-0493,stark industries corp,Mid-Market,Growth,Energy,US,Port Amanda,Willie,Vaughan,willie.vaughan@starkindustries.com,3134361386,2025-03-06
+CUST-0494,Stark Industries Corporation,Mid-Market,Growth,Media,US,North Charlesburgh,Andrew,Love,andrew.love@starkindustriesorati.com,281-893-4667x665,2024-08-07
+CUST-0495,Stark Industries Inc.,Mid-Market,Growth,Retail,US,Port Julieton,Emily,Nichols,emily.nichols@starkindustries.com,001-815-281-4491x476,2025-11-10
+CUST-0496,Wayne Enterprises Corp,Mid-Market,Growth,Logistics,UK,South Kathryn,Samuel,Ali,samuel.ali@wayneenterprises.com,0121 496 0738,2024-09-01
+CUST-0497,WAYNE ENTERPRISES CORP.,Mid-Market,Growth,,UK,Cookeborough,Shane,Gordon,shane.gordon@wayneenterprises.com,+44(0)131 4960977,2024-09-05
+CUST-0498,wayne enterprises corp,Mid-Market,Growth,Media,UK,Morganborough,Lawrence,Marsh,lawrence.marsh@wayneenterprises.com,0808 1570924,2024-03-10
+CUST-0499,Wayne Enterprises Corporation,Mid-Market,Growth,Energy,UK,Andreaville,Lee,Hart,lee.hart@wayneenterprisesorat.com,01632960814,2025-01-30 00:00:00
+CUST-0500,Wayne Enterprises Inc.,Mid-Market,Growth,Media,UK,Barbarahaven,Jake,Miller,jake.miller@wayneenterprises.com,0116 4960613,2024-04-03
